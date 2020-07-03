@@ -1,0 +1,1250 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 1100 660"
+   style="font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;"
+   version="1.1"
+   id="svg5232"
+   sodipodi:docname="finalstaticmfa.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:export-filename="C:\Users\TUDelft SID\Desktop\MPhil\MPhil Dissertation\Sankey Diagrams\Rick Lupton Advice\finalstaticmfa.png"
+   inkscape:export-xdpi="404"
+   inkscape:export-ydpi="404">
+  <metadata
+     id="metadata5238">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs5236" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1003"
+     id="namedview5234"
+     showgrid="false"
+     inkscape:zoom="0.73024848"
+     inkscape:cx="185.49226"
+     inkscape:cy="381.77727"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g5230" />
+  <g
+     class="sankey"
+     transform="translate(150,50)"
+     id="g5230"
+     inkscape:export-xdpi="404"
+     inkscape:export-ydpi="404">
+    <g
+       class="groups"
+       id="g4836" />
+    <g
+       id="g2389"
+       inkscape:export-xdpi="500"
+       inkscape:export-ydpi="500">
+      <g
+         class="link"
+         style="opacity:1"
+         id="g4842">
+        <path
+           class="link"
+           style="opacity:1;fill:#a6cee3"
+           d="m 639.2,402.57612 a 6.9520396,6.9520396 1.5707963 0 1 6.95204,6.95204 v 15.66482 A 6.9520396,6.9520396 1.5707963 0 1 639.2,432.14501 v -2 a 4.9520396,4.9520396 1.5707963 0 0 4.95204,-4.95203 V 409.52816 A 4.9520396,4.9520396 1.5707963 0 0 639.2,404.57612 Z"
+           id="path4840"
+           inkscape:connector-curvature="0">
+          <title
+             id="title4838">title</title>
+        </path>
+      </g>
+      <g
+         class="link"
+         style="opacity:1"
+         id="g4848">
+        <path
+           class="link"
+           style="opacity:1;fill:#a6cee3"
+           d="m 639.2,400.07936 a 60.15964,60.15964 1.0026191 0 0 50.70755,-27.78795 l 56.06274,-87.81758 A 62.914665,62.914665 1.0026191 0 1 799,255.41333 v 2.75503 a 60.15964,60.15964 1.0026191 0 0 -50.70755,27.78794 l -56.06274,87.81758 A 62.914665,62.914665 1.0026191 0 1 639.2,402.83438 Z"
+           id="path4846"
+           inkscape:connector-curvature="0">
+          <title
+             id="title4844">title</title>
+        </path>
+      </g>
+      <g
+         class="link"
+         style="opacity:1"
+         id="g4854">
+        <path
+           class="link"
+           style="opacity:1;fill:#1f78b4"
+           d="m 479.4,117.0127 a 11.6773,11.6773 0.11045228 0 1 1.28716,0.0712 l 147.18581,16.3234 A 102.76014,102.76014 0.11045228 0 0 639.2,134.03348 v 4.1214 a 106.88154,106.88154 0.11045228 0 1 -11.78132,-0.6513 L 480.23287,121.18014 A 7.5559,7.5559 0.11045228 0 0 479.4,121.1341 Z"
+           id="path4852"
+           inkscape:connector-curvature="0">
+          <title
+             id="title4850">title</title>
+        </path>
+      </g>
+      <g
+         class="link"
+         style="opacity:1"
+         id="g4860">
+        <path
+           class="link"
+           style="opacity:1;fill:#1f78b4"
+           d="m 479.4,283.59936 a 50.611112,50.611112 0.76795859 0 1 35.15793,14.20501 l 92.42849,89.2596 A 46.372612,46.372612 0.76795859 0 0 639.2,400.07936 v 4.2385 a 50.611112,50.611112 0.76795859 0 1 -35.15793,-14.20501 l -92.42849,-89.2596 A 46.372612,46.372612 0.76795859 0 0 479.4,287.83786 Z"
+           id="path4858"
+           inkscape:connector-curvature="0">
+          <title
+             id="title4856">title</title>
+        </path>
+      </g>
+      <g
+         class="link"
+         style="opacity:1"
+         id="g4866">
+        <path
+           class="link"
+           style="opacity:1;fill:#a6cee3"
+           d="m 639.2,355.97389 a 16.168507,16.168507 1.5707963 0 1 16.16851,16.1685 v 49.50976 A 16.168507,16.168507 1.5707963 0 1 639.2,437.82065 v -5.9339 a 10.234607,10.234607 1.5707963 0 0 10.23461,-10.2346 V 372.14239 A 10.234607,10.234607 1.5707963 0 0 639.2,361.90779 Z"
+           id="path4864"
+           inkscape:connector-curvature="0">
+          <title
+             id="title4862">title</title>
+        </path>
+      </g>
+      <g
+         class="link"
+         style="opacity:1"
+         id="g4872">
+        <path
+           class="link"
+           style="opacity:1;fill:#1f78b4"
+           d="m 479.4,121.1341 a 7.5559,7.5559 0.27069525 0 1 2.02046,0.27515 L 623.899,160.94801 a 57.221076,57.221076 0.27069525 0 0 15.301,2.08369 v 7.5559 a 64.776976,64.776976 0.27069525 0 1 -17.32146,-2.35884 L 479.4,128.69 Z"
+           id="path4870"
+           inkscape:connector-curvature="0">
+          <title
+             id="title4868">title</title>
+        </path>
+      </g>
+      <g
+         class="link"
+         style="opacity:1"
+         id="g4878">
+        <path
+           class="link"
+           style="opacity:1;fill:#a6cee3"
+           d="m 0,295.09196 a 105.85548,105.85548 0.27081651 0 0 28.318276,-3.85813 L 129.02823,263.27298 A 115.02679,115.02679 0.27081651 0 1 159.8,259.08057 v 9.17131 a 105.85548,105.85548 0.27081651 0 0 -28.31828,3.85814 L 30.771769,300.07087 A 115.02679,115.02679 0.27081651 0 1 0,304.26327 Z"
+           id="path4876"
+           inkscape:connector-curvature="0">
+          <title
+             id="title4874">title</title>
+        </path>
+      </g>
+      <g
+         class="link"
+         style="opacity:1"
+         id="g4884">
+        <path
+           class="link"
+           style="opacity:1;fill:#b2df8a"
+           d="m 159.8,346.87155 v -39.53128 -9.41889 a 9.4188889,9.4188889 1.5707963 0 0 -9.41889,9.41889 v 39.53128 a 9.4188889,9.4188889 1.5707963 0 0 9.41889,9.41889 z"
+           id="path4882"
+           inkscape:connector-curvature="0">
+          <title
+             id="title4880">title</title>
+        </path>
+      </g>
+      <g
+         class="link"
+         style="opacity:1"
+         id="g4890">
+        <path
+           class="link"
+           style="opacity:1;fill:#b2df8a"
+           d="m 159.8,346.87155 h 159.8 v 9.41889 H 159.8 Z"
+           id="path4888"
+           inkscape:connector-curvature="0">
+          <title
+             id="title4886">title</title>
+        </path>
+      </g>
+      <g
+         class="link"
+         style="opacity:1"
+         id="g4896">
+        <path
+           class="link"
+           style="opacity:1;fill:#b2df8a"
+           d="m 319.6,287.83786 a 32.820725,32.820725 1.5707963 0 1 32.82072,32.82072 v 2.81113 A 32.820725,32.820725 1.5707963 0 1 319.6,356.29044 v -9.41889 a 23.401836,23.401836 1.5707963 0 0 23.40184,-23.40184 v -2.81113 A 23.401836,23.401836 1.5707963 0 0 319.6,297.25675 Z"
+           id="path4894"
+           inkscape:connector-curvature="0">
+          <title
+             id="title4892">title</title>
+        </path>
+      </g>
+      <g
+         class="link"
+         style="opacity:1"
+         id="g4902">
+        <path
+           class="link"
+           style="opacity:1;fill:#1f78b4"
+           d="m 159.8,297.25675 a 80.880176,80.880176 0.38265093 0 1 30.19912,5.84941 l 27.6283,11.12011 a 70.796654,70.796654 0.38265093 0 0 26.43413,5.12015 v 10.08352 a 80.880176,80.880176 0.38265093 0 1 -30.19912,-5.84941 L 186.23412,312.46042 A 70.796654,70.796654 0.38265093 0 0 159.8,307.34027 Z"
+           id="path4900"
+           inkscape:connector-curvature="0">
+          <title
+             id="title4898">title</title>
+        </path>
+      </g>
+      <g
+         class="link"
+         style="opacity:1"
+         id="g4908">
+        <path
+           class="link"
+           style="opacity:1;fill:#a6cee3"
+           d="m 639.2,344.95379 a 83.114326,83.114326 0.96120842 0 0 68.14411,-35.52891 l 18.93594,-27.11699 A 88.695411,88.695411 0.96120842 0 1 799,244.39323 v 11.0201 a 77.675311,77.675311 0.96120842 0 0 -63.68475,33.2039 l -18.93594,27.11698 A 94.134426,94.134426 0.96120842 0 1 639.2,355.97389 Z"
+           id="path4906"
+           inkscape:connector-curvature="0">
+          <title
+             id="title4904">title</title>
+        </path>
+      </g>
+      <g
+         class="link"
+         style="opacity:1"
+         id="g4914">
+        <path
+           class="link"
+           style="opacity:1;fill:#a6cee3"
+           d="M 0,283.65872 A 41.94745,41.94745 0.87187468 0 0 32.112302,268.69995 L 141.76778,138.22708 A 23.555006,23.555006 0.87187468 0 1 159.8,129.82719 v 11.43324 a 12.121765,12.121765 0.87187468 0 0 -9.27965,4.32271 L 40.864865,276.05601 A 53.380692,53.380692 0.87187468 0 1 0,295.09196 Z"
+           id="path4912"
+           inkscape:connector-curvature="0">
+          <title
+             id="title4910">title</title>
+        </path>
+      </g>
+      <g
+         class="link"
+         style="opacity:1"
+         id="g4920">
+        <path
+           class="link"
+           style="opacity:1;fill:#b2df8a"
+           d="m 159.8,182.98465 h 159.8 v 12.12176 H 159.8 Z"
+           id="path4918"
+           inkscape:connector-curvature="0">
+          <title
+             id="title4916">title</title>
+        </path>
+      </g>
+      <g
+         class="link"
+         style="opacity:1"
+         id="g4926">
+        <path
+           class="link"
+           style="opacity:1;fill:#b2df8a"
+           d="m 319.6,128.69 a 14.207842,14.207842 1.5707963 0 1 14.20784,14.20784 v 38.00073 A 14.207842,14.207842 1.5707963 0 1 319.6,195.10641 v -12.12176 a 2.0860773,2.0860773 1.5707963 0 0 2.08608,-2.08608 V 142.89784 A 2.0860773,2.0860773 1.5707963 0 0 319.6,140.81176 Z"
+           id="path4924"
+           inkscape:connector-curvature="0">
+          <title
+             id="title4922">title</title>
+        </path>
+      </g>
+      <g
+         class="link"
+         style="opacity:1"
+         id="g4932">
+        <path
+           class="link"
+           style="opacity:1;fill:#b2df8a"
+           d="M 159.8,182.98465 V 153.3822 141.26043 a 12.121765,12.121765 1.5707963 0 0 -12.12176,12.12177 v 29.60245 A 12.121765,12.121765 1.5707963 0 0 159.8,195.10641 Z"
+           id="path4930"
+           inkscape:connector-curvature="0">
+          <title
+             id="title4928">title</title>
+        </path>
+      </g>
+      <g
+         class="link"
+         style="opacity:1"
+         id="g4938">
+        <path
+           class="link"
+           style="opacity:1;fill:#1f78b4"
+           d="m 159.8,140.81176 a 12.570433,12.570433 0.23655467 0 1 2.94594,0.35008 l 71.27679,17.18256 a 42.836018,42.836018 0.23655467 0 0 10.03882,1.19293 v 12.57043 a 55.406451,55.406451 0.23655467 0 1 -12.98476,-1.543 L 159.8,153.3822 Z"
+           id="path4936"
+           inkscape:connector-curvature="0">
+          <title
+             id="title4934">title</title>
+        </path>
+      </g>
+      <g
+         class="link"
+         style="opacity:1"
+         id="g4944">
+        <path
+           class="link"
+           style="opacity:1;fill:#a6cee3"
+           d="m 0,220.14294 a 166.41611,166.41611 0.18452996 0 1 30.534776,2.82531 L 131.94527,241.89687 A 151.80974,151.80974 0.18452996 0 0 159.8,244.4742 v 14.60637 a 166.41611,166.41611 0.18452996 0 1 -30.53478,-2.82531 L 27.854733,237.32665 A 151.80974,151.80974 0.18452996 0 0 0,234.74931 Z"
+           id="path4942"
+           inkscape:connector-curvature="0">
+          <title
+             id="title4940">title</title>
+        </path>
+      </g>
+      <g
+         class="link"
+         style="opacity:1"
+         id="g4950">
+        <path
+           class="link"
+           style="opacity:1;fill:#1f78b4"
+           d="m 479.4,266.64536 a 67.565112,67.565112 0.549926 0 1 35.31116,9.96158 l 100.41701,61.55597 A 46.059538,46.059538 0.549926 0 0 639.2,344.95379 v 16.954 a 63.013538,63.013538 0.549926 0 1 -32.9324,-9.29052 L 505.85059,291.0613 A 50.611112,50.611112 0.549926 0 0 479.4,283.59936 Z"
+           id="path4948"
+           inkscape:connector-curvature="0">
+          <title
+             id="title4946">title</title>
+        </path>
+      </g>
+      <g
+         class="link"
+         style="opacity:1"
+         id="g4956">
+        <path
+           class="link"
+           style="opacity:1;fill:#a6cee3"
+           d="m 0,201.93418 a 46.325114,46.325114 0.59772547 0 0 26.070096,-8.03195 L 136.29687,118.85953 A 41.763763,41.763763 0.59772547 0 1 159.8,111.61843 v 18.20876 a 23.555006,23.555006 0.59772547 0 0 -13.2559,4.08402 L 36.317324,208.95392 A 64.533871,64.533871 0.59772547 0 1 0,220.14294 Z"
+           id="path4954"
+           inkscape:connector-curvature="0">
+          <title
+             id="title4952">title</title>
+        </path>
+      </g>
+      <g
+         class="link"
+         style="opacity:1"
+         id="g4962">
+        <path
+           class="link"
+           style="opacity:1;fill:#a6cee3"
+           d="m 639.2,244.39323 a 37.177054,37.177054 1.5707963 0 1 37.17705,37.17706 V 422.89572 A 37.177054,37.177054 1.5707963 0 1 639.2,460.07278 v -22.25213 a 14.924929,14.924929 1.5707963 0 0 14.92493,-14.92493 V 281.57029 A 14.924929,14.924929 1.5707963 0 0 639.2,266.64536 Z"
+           id="path4960"
+           inkscape:connector-curvature="0">
+          <title
+             id="title4958">title</title>
+        </path>
+      </g>
+      <g
+         class="link"
+         style="opacity:1"
+         id="g4968">
+        <path
+           class="link"
+           style="opacity:1;fill:#a6cee3"
+           d="m 0,430.40328 h 159.8 v 29.6695 H 0 Z"
+           id="path4966"
+           inkscape:connector-curvature="0">
+          <title
+             id="title4964">title</title>
+        </path>
+      </g>
+      <g
+         class="link"
+         style="opacity:1"
+         id="g4974">
+        <path
+           class="link"
+           style="opacity:1;fill:#a6cee3"
+           d="m 159.8,430.40328 h 159.8 v 29.6695 H 159.8 Z"
+           id="path4972"
+           inkscape:connector-curvature="0">
+          <title
+             id="title4970">title</title>
+        </path>
+      </g>
+      <g
+         class="link"
+         style="opacity:1"
+         id="g4980">
+        <path
+           class="link"
+           style="opacity:1;fill:#a6cee3"
+           d="m 479.4,430.40328 h 159.8 v 29.6695 H 479.4 Z"
+           id="path4978"
+           inkscape:connector-curvature="0">
+          <title
+             id="title4976">title</title>
+        </path>
+      </g>
+      <g
+         class="link"
+         style="opacity:1"
+         id="g4986">
+        <path
+           class="link"
+           style="opacity:1;fill:#a6cee3"
+           d="m 0,430.40328 v -47.5611 -29.6695 a 29.6695,29.6695 1.5707963 0 0 -29.6695,29.6695 v 47.5611 A 29.6695,29.6695 1.5707963 0 0 0,460.07278 Z"
+           id="path4984"
+           inkscape:connector-curvature="0">
+          <title
+             id="title4982">title</title>
+        </path>
+      </g>
+      <g
+         class="link"
+         style="opacity:1"
+         id="g4992">
+        <path
+           class="link"
+           style="opacity:1;fill:#a6cee3"
+           d="m 0,353.17268 a 42.446238,42.446238 0.598856 0 0 23.926856,-7.38645 L 119.14851,280.80139 A 72.115738,72.115738 0.598856 0 1 159.8,268.25188 v 29.6695 a 42.446238,42.446238 0.598856 0 0 -23.92686,7.38645 L 40.651492,370.29268 A 72.115738,72.115738 0.598856 0 1 0,382.84218 Z"
+           id="path4990"
+           inkscape:connector-curvature="0">
+          <title
+             id="title4988">title</title>
+        </path>
+      </g>
+      <g
+         class="link"
+         style="opacity:1"
+         id="g4998">
+        <path
+           class="link"
+           style="opacity:1;fill:#a6cee3"
+           d="m 319.6,430.40328 h 159.8 v 29.6695 H 319.6 Z"
+           id="path4996"
+           inkscape:connector-curvature="0">
+          <title
+             id="title4994">title</title>
+        </path>
+      </g>
+      <g
+         class="link"
+         style="opacity:1"
+         id="g5004">
+        <path
+           class="link"
+           style="opacity:1;fill:#a6cee3"
+           d="M 639.2,203.06786 H 799 v 41.32537 H 639.2 Z"
+           id="path5002"
+           inkscape:connector-curvature="0">
+          <title
+             id="title5000">title</title>
+        </path>
+      </g>
+      <g
+         class="link"
+         style="opacity:1"
+         id="g5010">
+        <path
+           class="link"
+           style="opacity:1;fill:#a6cee3"
+           d="m 0,111.61843 a 75.783513,75.783513 0.63761492 0 1 45.112461,14.89011 l 94.223469,69.80482 A 34.377172,34.377172 0.63761492 0 0 159.8,203.06786 V 244.4742 A 75.783513,75.783513 0.63761492 0 1 114.68754,229.58409 L 20.464066,159.77928 A 34.377172,34.377172 0.63761492 0 0 0,153.02478 Z"
+           id="path5008"
+           inkscape:connector-curvature="0">
+          <title
+             id="title5006">title</title>
+        </path>
+      </g>
+      <g
+         class="link"
+         style="opacity:1"
+         id="g5016">
+        <path
+           class="link"
+           style="opacity:1;fill:#a6cee3"
+           d="m 0,60 h 159.8 v 51.61843 H 0 Z"
+           id="path5014"
+           inkscape:connector-curvature="0">
+          <title
+             id="title5012">title</title>
+        </path>
+      </g>
+      <g
+         class="link"
+         style="opacity:1"
+         id="g5022">
+        <path
+           class="link"
+           style="opacity:1;fill:#1f78b4"
+           d="m 479.4,60 h 159.8 v 57.0127 H 479.4 Z"
+           id="path5020"
+           inkscape:connector-curvature="0">
+          <title
+             id="title5018">title</title>
+        </path>
+      </g>
+      <g
+         class="link"
+         style="opacity:1"
+         id="g5028">
+        <path
+           class="link"
+           style="opacity:1;fill:#1f78b4"
+           d="m 479.4,203.06786 h 159.8 v 63.5775 H 479.4 Z"
+           id="path5026"
+           inkscape:connector-curvature="0">
+          <title
+             id="title5024">title</title>
+        </path>
+      </g>
+      <g
+         class="link"
+         style="opacity:1"
+         id="g5034">
+        <path
+           class="link"
+           style="opacity:1;fill:#33a02c"
+           d="m 319.6,60 h 159.8 v 68.69 H 319.6 Z"
+           id="path5032"
+           inkscape:connector-curvature="0">
+          <title
+             id="title5030">title</title>
+        </path>
+      </g>
+      <g
+         class="link"
+         style="opacity:1"
+         id="g5040">
+        <path
+           class="link"
+           style="opacity:1;fill:#b2df8a"
+           d="m 159.8,60 h 159.8 v 80.81176 H 159.8 Z"
+           id="path5038"
+           inkscape:connector-curvature="0">
+          <title
+             id="title5036">title</title>
+        </path>
+      </g>
+      <g
+         class="link"
+         style="opacity:1"
+         id="g5046">
+        <path
+           class="link"
+           style="opacity:1;fill:#fb9a99"
+           d="m 319.6,203.06786 h 159.8 v 84.77 H 319.6 Z"
+           id="path5044"
+           inkscape:connector-curvature="0">
+          <title
+             id="title5042">title</title>
+        </path>
+      </g>
+      <g
+         class="link"
+         style="opacity:1"
+         id="g5052">
+        <path
+           class="link"
+           style="opacity:1;fill:#b2df8a"
+           d="m 159.8,203.06786 h 159.8 v 94.18889 H 159.8 Z"
+           id="path5050"
+           inkscape:connector-curvature="0">
+          <title
+             id="title5048">title</title>
+        </path>
+      </g>
+      <g
+         inkscape:export-ydpi="500"
+         inkscape:export-xdpi="500"
+         id="g5226"
+         class="nodes">
+        <g
+           id="g5062"
+           transform="translate(0,60)"
+           class="node node-style-default">
+          <title
+             id="title5056">title</title>
+          <text
+             id="text5058"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;-inkscape-font-specification:'Helvetica Neue, Helvetica, Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;stroke:#ffffff;stroke-width:4px;paint-order:stroke"
+             y="44"
+             x="-12"
+             dy="4.1999998">
+            <tspan
+               y="44"
+               x="-12"
+               id="tspan1889"
+               sodipodi:role="line">Silica</tspan>
+            <tspan
+               y="59"
+               x="-12"
+               id="tspan1891"
+               sodipodi:role="line">93 Mt</tspan>
+          </text>
+          <line
+             id="line5060"
+             style="stroke: rgb(0, 0, 0); stroke-width: 1px;"
+             y2="93.0247756680145"
+             y1="0"
+             x2="0"
+             x1="0" />
+        </g>
+        <g
+           id="g5070"
+           transform="translate(0,201.93418454056442)"
+           class="node node-style-default">
+          <title
+             id="title5064">title</title>
+          <text
+             id="text5066"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;-inkscape-font-specification:'Helvetica Neue, Helvetica, Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;stroke:#ffffff;stroke-width:4px;paint-order:stroke"
+             y="12"
+             x="-12"
+             dy="4.1999998">
+            <tspan
+               y="12"
+               x="-12"
+               id="tspan1893"
+               sodipodi:role="line">Soda Ash</tspan>
+            <tspan
+               y="27"
+               x="-12"
+               id="tspan1895"
+               sodipodi:role="line">33 Mt</tspan>
+          </text>
+          <line
+             id="line5068"
+             style="stroke: rgb(0, 0, 0); stroke-width: 1px;"
+             y2="32.81512820434365"
+             y1="0"
+             x2="0"
+             x1="0" />
+        </g>
+        <g
+           id="g5078"
+           transform="translate(0,283.658721617458)"
+           class="node node-style-default">
+          <title
+             id="title5072">title</title>
+          <text
+             id="text5074"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;-inkscape-font-specification:'Helvetica Neue, Helvetica, Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;stroke:#ffffff;stroke-width:4px;paint-order:stroke"
+             y="4"
+             x="-12"
+             dy="4.1999998">
+            <tspan
+               y="4"
+               x="-12"
+               id="tspan1897"
+               sodipodi:role="line">Limestone</tspan>
+            <tspan
+               y="19"
+               x="-12"
+               id="tspan1899"
+               sodipodi:role="line">20 Mt</tspan>
+          </text>
+          <line
+             id="line5076"
+             style="stroke: rgb(0, 0, 0); stroke-width: 1px;"
+             y2="20.60455176489224"
+             y1="0"
+             x2="0"
+             x1="0" />
+        </g>
+        <g
+           id="g5086"
+           transform="translate(0,353.17268225490017)"
+           class="node node-style-default">
+          <title
+             id="title5080">title</title>
+          <text
+             id="text5082"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;-inkscape-font-specification:'Helvetica Neue, Helvetica, Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke:#ffffff;stroke-width:4px;paint-order:stroke"
+             y="52.876762"
+             x="75.13028"
+             dy="4.1999998">
+            <tspan
+               y="52.876762"
+               x="75.13028"
+               id="tspan1885"
+               sodipodi:role="line">External Container Cullet</tspan>
+            <tspan
+               y="67.876762"
+               x="75.13028"
+               id="tspan1887"
+               sodipodi:role="line">30 Mt</tspan>
+          </text>
+          <line
+             id="line5084"
+             style="stroke: rgb(0, 0, 0); stroke-width: 1px;"
+             y2="29.6695"
+             y1="0"
+             x2="0"
+             x1="0" />
+        </g>
+        <g
+           id="g5088"
+           transform="translate(0,430.40327744838174)"
+           class="node node-style-default" />
+        <g
+           id="g5096"
+           transform="translate(159.8,60)"
+           class="node node-style-default">
+          <title
+             id="title5090">title</title>
+          <line
+             id="line5094"
+             style="stroke: rgb(0, 0, 0); stroke-width: 1px;"
+             y2="93.38219791943857"
+             y1="0"
+             x2="0"
+             x1="0" />
+        </g>
+        <g
+           id="g5098"
+           transform="translate(159.8,182.98464612745187)"
+           class="node node-style-default" />
+        <g
+           id="g5106"
+           transform="translate(159.8,203.06785851992993)"
+           class="node node-style-default">
+          <title
+             id="title5100">title</title>
+          <line
+             id="line5104"
+             style="stroke: rgb(0, 0, 0); stroke-width: 1px;"
+             y2="104.27241131258307"
+             y1="0"
+             x2="0"
+             x1="0" />
+        </g>
+        <g
+           id="g5108"
+           transform="translate(159.8,346.87154690212685)"
+           class="node node-style-default" />
+        <g
+           id="g5110"
+           transform="translate(159.8,430.40327744838174)"
+           class="node node-style-default" />
+        <g
+           id="g5118"
+           transform="translate(319.6,60)"
+           class="node node-style-default">
+          <title
+             id="title5112">title</title>
+          <line
+             id="line5116"
+             style="stroke: rgb(0, 0, 0); stroke-width: 1px;"
+             y2="80.81176470588235"
+             y1="0"
+             x2="0"
+             x1="0" />
+        </g>
+        <g
+           id="g5126"
+           transform="translate(244.06154785156252,159.53733010519028)"
+           class="node node-style-default selected">
+          <title
+             id="title5120">title</title>
+          <text
+             id="text5122"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;-inkscape-font-specification:'Helvetica Neue, Helvetica, Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;stroke:none;stroke-width:4px;paint-order:stroke"
+             y="16.841549"
+             x="67.625961"
+             dy="4.1999998">
+            <tspan
+               y="16.841549"
+               x="67.625954"
+               id="tspan1853"
+               sodipodi:role="line">Flat Process Emissions 13 Mt</tspan>
+          </text>
+          <line
+             id="line5124"
+             style="stroke: rgb(0, 0, 0); stroke-width: 1px;"
+             y2="12.570433213556214"
+             y1="0"
+             x2="0"
+             x1="0" />
+          <text
+             dy="4.1999998"
+             x="225.62596"
+             y="0.84154892"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;-inkscape-font-specification:'Helvetica Neue, Helvetica, Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;stroke:none;stroke-width:4px;paint-order:stroke"
+             id="text1859">
+            <tspan
+               y="0.84154892"
+               x="225.62596"
+               id="tspan1861"
+               sodipodi:role="line">Internal Flat Cullet 12 Mt</tspan>
+          </text>
+          <text
+             id="text1865"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;-inkscape-font-specification:'Helvetica Neue, Helvetica, Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;stroke:none;stroke-width:4px;paint-order:stroke"
+             y="162.84155"
+             x="269.62598"
+             dy="4.1999998">
+            <tspan
+               y="162.84155"
+               x="269.62598"
+               id="tspan1867"
+               sodipodi:role="line">Internal Container Cullet 9 Mt</tspan>
+          </text>
+        </g>
+        <g
+           id="g5128"
+           transform="translate(319.6,182.98464612745187)"
+           class="node node-style-default" />
+        <g
+           id="g5136"
+           transform="translate(319.6,203.06785851992993)"
+           class="node node-style-default">
+          <title
+             id="title5130">title</title>
+          <line
+             id="line5134"
+             style="stroke: rgb(0, 0, 0); stroke-width: 1px;"
+             y2="94.18888888888888"
+             y1="0"
+             x2="0"
+             x1="0" />
+        </g>
+        <g
+           id="g5144"
+           transform="translate(244.06154785156252,319.3464164379103)"
+           class="node node-style-default selected">
+          <title
+             id="title5138">title</title>
+          <text
+             id="text5140"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;-inkscape-font-specification:'Helvetica Neue, Helvetica, Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;stroke:#ffffff;stroke-width:4px;stroke-opacity:1;paint-order:stroke"
+             y="16"
+             x="88.469704"
+             dy="4.1999998">
+            <tspan
+               y="16"
+               x="88.469696"
+               id="tspan1855"
+               sodipodi:role="line">Container Process Emissions 10 Mt</tspan>
+          </text>
+          <line
+             id="line5142"
+             style="stroke: rgb(0, 0, 0); stroke-width: 1px;"
+             y2="10.083522423694193"
+             y1="0"
+             x2="0"
+             x1="0" />
+        </g>
+        <g
+           id="g5146"
+           transform="translate(319.6,346.87154690212685)"
+           class="node node-style-default" />
+        <g
+           id="g5148"
+           transform="translate(319.6,430.40327744838174)"
+           class="node node-style-default" />
+        <g
+           id="g5156"
+           transform="translate(479.40000000000003,60)"
+           class="node node-style-default">
+          <title
+             id="title5150">title</title>
+          <line
+             id="line5154"
+             style="stroke: rgb(0, 0, 0); stroke-width: 1px;"
+             y2="68.69"
+             y1="0"
+             x2="0"
+             x1="0" />
+        </g>
+        <g
+           id="g5164"
+           transform="translate(479.40000000000003,203.06785851992993)"
+           class="node node-style-default">
+          <title
+             id="title5158">title</title>
+          <text
+             id="text5160"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;-inkscape-font-specification:'Helvetica Neue, Helvetica, Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke:none;stroke-width:4px;paint-order:stroke"
+             y="42.585659"
+             x="-80"
+             dy="4.1999998">
+            <tspan
+               y="42.585659"
+               x="-80"
+               id="tspan1881"
+               sodipodi:role="line">Final Container</tspan>
+            <tspan
+               y="57.585659"
+               x="-80"
+               id="tspan1883"
+               sodipodi:role="line">85 Mt</tspan>
+          </text>
+          <line
+             id="line5162"
+             style="stroke: rgb(0, 0, 0); stroke-width: 1px;"
+             y2="84.77"
+             y1="0"
+             x2="0"
+             x1="0" />
+          <text
+             dy="4.1999998"
+             x="-78"
+             y="-109.40849"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;-inkscape-font-specification:'Helvetica Neue, Helvetica, Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke:none;stroke-width:4px;paint-order:stroke"
+             id="text7339">
+            <tspan
+               y="-109.40849"
+               x="-78"
+               id="tspan1873"
+               sodipodi:role="line">Final Flat</tspan>
+            <tspan
+               y="-94.408493"
+               x="-78"
+               id="tspan1875"
+               sodipodi:role="line">69 Mt</tspan>
+          </text>
+          <text
+             dy="0 0 0 0 0 0 0 0 0 0 0 0"
+             x="-238"
+             y="46.785656"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;-inkscape-font-specification:'Helvetica Neue, Helvetica, Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke:none;stroke-width:4px;paint-order:stroke"
+             id="text7341">
+            <tspan
+               y="46.785656"
+               x="-238"
+               id="tspan1877"
+               sodipodi:role="line">Intermediate Container</tspan>
+            <tspan
+               y="61.785656"
+               x="-238"
+               id="tspan1879"
+               sodipodi:role="line">94 Mt</tspan>
+          </text>
+          <text
+             id="text7343"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;-inkscape-font-specification:'Helvetica Neue, Helvetica, Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke:none;stroke-width:4px;paint-order:stroke"
+             y="-103.21434"
+             x="-240"
+             dy="0 0 0 0 0 0 0 0 0 0 0 0">
+            <tspan
+               y="-103.21434"
+               x="-240"
+               id="tspan1869"
+               sodipodi:role="line">Intermediate Flat</tspan>
+            <tspan
+               y="-88.21434"
+               x="-240"
+               id="tspan1871"
+               sodipodi:role="line">81 Mt</tspan>
+          </text>
+        </g>
+        <g
+           id="g5166"
+           transform="translate(479.40000000000003,430.40327744838174)"
+           class="node node-style-default" />
+        <g
+           id="g5174"
+           transform="translate(639.2,60)"
+           class="node node-style-default">
+          <title
+             id="title5168">title</title>
+          <text
+             id="text5170"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;-inkscape-font-specification:'Helvetica Neue, Helvetica, Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:#ffffff;stroke-width:4px;paint-order:stroke"
+             y="26"
+             x="10.301953"
+             dy="4.1999998">
+            <tspan
+               y="26"
+               x="10.301953"
+               id="tspan1917"
+               sodipodi:role="line">Buildings</tspan>
+            <tspan
+               y="41"
+               x="10.301953"
+               id="tspan1919"
+               sodipodi:role="line">57 Mt</tspan>
+          </text>
+          <line
+             id="line5172"
+             style="stroke: rgb(0, 0, 0); stroke-width: 1px;"
+             y2="57.012699999999995"
+             y1="0"
+             x2="0"
+             x1="0" />
+          <text
+             dy="5.0559154"
+             x="-585.16846"
+             y="-29.135532"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.33333302px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;-inkscape-font-specification:'Helvetica Neue, Helvetica, Arial, sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke:#ffffff;stroke-width:4.81515741px;paint-order:stroke"
+             id="text2167"
+             transform="scale(0.95723898,1.0446712)">
+            <tspan
+               y="-29.135532"
+               x="-585.16846"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.33333302px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;-inkscape-font-specification:'Helvetica Neue, Helvetica, Arial, sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:4.81515741px"
+               id="tspan2173"
+               sodipodi:role="line">Batch Preparation</tspan>
+          </text>
+          <text
+             x="-250.87163"
+             y="-21.605658"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.33333302px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;-inkscape-font-specification:'Helvetica Neue, Helvetica, Arial, sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke:#ffffff;stroke-width:4.81515741px;paint-order:stroke"
+             id="text7215"
+             transform="scale(0.95723898,1.0446712)">
+            <tspan
+               y="-21.605658"
+               x="-250.87163"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.33333302px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;-inkscape-font-specification:'Helvetica Neue, Helvetica, Arial, sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:4.81515741px"
+               id="tspan7213"
+               sodipodi:role="line">Fabrication</tspan>
+          </text>
+          <text
+             transform="scale(0.95723898,1.0446712)"
+             id="text7219"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.33333302px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;-inkscape-font-specification:'Helvetica Neue, Helvetica, Arial, sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke:#ffffff;stroke-width:4.81515741px;paint-order:stroke"
+             y="-21.612167"
+             x="-85.813759">
+            <tspan
+               sodipodi:role="line"
+               id="tspan7217"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.33333302px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;-inkscape-font-specification:'Helvetica Neue, Helvetica, Arial, sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:4.81515741px"
+               x="-85.813759"
+               y="-21.612167">End-Use</tspan>
+          </text>
+          <text
+             dy="5.0559154"
+             x="83.422974"
+             y="-26.661573"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.33333302px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;-inkscape-font-specification:'Helvetica Neue, Helvetica, Arial, sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke:#ffffff;stroke-width:4.81515741px;paint-order:stroke"
+             id="text7223"
+             transform="scale(0.95723898,1.0446712)">
+            <tspan
+               y="-26.661573"
+               x="83.422974"
+               id="tspan7225"
+               sodipodi:role="line">End-of-Life</tspan>
+          </text>
+          <text
+             transform="scale(0.95723898,1.0446712)"
+             id="text7229"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.33333302px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;-inkscape-font-specification:'Helvetica Neue, Helvetica, Arial, sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke:#ffffff;stroke-width:4.81515741px;paint-order:stroke"
+             y="-24.255398"
+             x="-418.02002">
+            <tspan
+               sodipodi:role="line"
+               id="tspan7227"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.33333302px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;-inkscape-font-specification:'Helvetica Neue, Helvetica, Arial, sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:4.81515741px"
+               x="-418.02002"
+               y="-24.255398">Melting Furnace</tspan>
+          </text>
+        </g>
+        <g
+           id="g5182"
+           transform="translate(639.2,134.0334840750558)"
+           class="node node-style-default">
+          <title
+             id="title5176">title</title>
+          <text
+             id="text5178"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;-inkscape-font-specification:'Helvetica Neue, Helvetica, Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:#ffffff;stroke-width:4px;paint-order:stroke"
+             y="-2"
+             x="10.817578"
+             dy="4.1999998">
+            <tspan
+               y="-2"
+               x="10.817578"
+               id="tspan1923"
+               sodipodi:role="line">Automotive</tspan>
+            <tspan
+               y="13"
+               x="10.817578"
+               id="tspan1925"
+               sodipodi:role="line">4 Mt</tspan>
+          </text>
+          <line
+             id="line5180"
+             style="stroke: rgb(0, 0, 0); stroke-width: 1px;"
+             y2="4.1213999999999995"
+             y1="0"
+             x2="0"
+             x1="0" />
+        </g>
+        <g
+           id="g5190"
+           transform="translate(639.2,163.03170147530693)"
+           class="node node-style-default">
+          <title
+             id="title5184">title</title>
+          <text
+             id="text5186"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;-inkscape-font-specification:'Helvetica Neue, Helvetica, Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:#ffffff;stroke-width:4px;paint-order:stroke"
+             y="2"
+             x="10.313672"
+             dy="4.1999998">
+            <tspan
+               y="2"
+               x="10.313672"
+               id="tspan1927"
+               sodipodi:role="line">Other Flat</tspan>
+            <tspan
+               y="17"
+               x="10.313672"
+               id="tspan1929"
+               sodipodi:role="line">8 Mt</tspan>
+          </text>
+          <line
+             id="line5188"
+             style="stroke: rgb(0, 0, 0); stroke-width: 1px;"
+             y2="7.555899999999999"
+             y1="0"
+             x2="0"
+             x1="0" />
+        </g>
+        <g
+           id="g5198"
+           transform="translate(639.2,203.06785851992993)"
+           class="node node-style-default">
+          <title
+             id="title5192">title</title>
+          <text
+             id="text5194"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;-inkscape-font-specification:'Helvetica Neue, Helvetica, Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke:none;stroke-width:4px;paint-order:stroke;"
+             y="28"
+             x="-78"
+             dy="4.1999998">
+            <tspan
+               y="28"
+               x="-78"
+               id="tspan1905"
+               sodipodi:role="line">Beverages</tspan>
+            <tspan
+               y="43"
+               x="-78"
+               id="tspan1907"
+               sodipodi:role="line">64 Mt</tspan>
+          </text>
+          <line
+             id="line5196"
+             style="stroke: rgb(0, 0, 0); stroke-width: 1px;"
+             y2="63.5775"
+             y1="0"
+             x2="0"
+             x1="0" />
+        </g>
+        <g
+           id="g5206"
+           transform="translate(639.2,344.95378571428574)"
+           class="node node-style-default">
+          <title
+             id="title5200">title</title>
+          <text
+             id="text5202"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;-inkscape-font-specification:'Helvetica Neue, Helvetica, Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke:#ffffff;stroke-width:4px;paint-order:stroke"
+             y="-32"
+             x="-18"
+             dy="4.1999998">
+            <tspan
+               y="-32"
+               x="-18"
+               id="tspan1909"
+               sodipodi:role="line">Food</tspan>
+            <tspan
+               y="-17"
+               x="-18"
+               id="tspan1911"
+               sodipodi:role="line">17 Mt</tspan>
+          </text>
+          <line
+             id="line5204"
+             style="stroke: rgb(0, 0, 0); stroke-width: 1px;"
+             y2="16.954"
+             y1="0"
+             x2="0"
+             x1="0" />
+        </g>
+        <g
+           id="g5214"
+           transform="translate(639.2,400.0793571428572)"
+           class="node node-style-default">
+          <title
+             id="title5208">title</title>
+          <text
+             id="text5210"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;-inkscape-font-specification:'Helvetica Neue, Helvetica, Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke:#ffffff;stroke-width:4px;paint-order:stroke"
+             y="-4"
+             x="-84"
+             dy="4.1999998">
+            <tspan
+               y="-4"
+               x="-84"
+               id="tspan1913"
+               sodipodi:role="line">Other Container</tspan>
+            <tspan
+               y="11"
+               x="-84"
+               id="tspan1915"
+               sodipodi:role="line">4 Mt</tspan>
+          </text>
+          <line
+             id="line5212"
+             style="stroke: rgb(0, 0, 0); stroke-width: 1px;"
+             y2="4.2385"
+             y1="0"
+             x2="0"
+             x1="0" />
+        </g>
+        <g
+           id="g5216"
+           transform="translate(639.2,430.40327744838174)"
+           class="node node-style-default" />
+        <g
+           id="g5224"
+           transform="translate(799,203.06785851992993)"
+           class="node node-style-default">
+          <title
+             id="title5218">title</title>
+          <text
+             id="text5220"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;-inkscape-font-specification:'Helvetica Neue, Helvetica, Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:#ffffff;stroke-width:4px;paint-order:stroke"
+             y="23.591516"
+             x="8"
+             dy="4.1999998">
+            <tspan
+               y="23.591516"
+               x="8"
+               id="tspan1901"
+               sodipodi:role="line">Landfill</tspan>
+            <tspan
+               y="38.591515"
+               x="8"
+               id="tspan1903"
+               sodipodi:role="line">55 Mt</tspan>
+          </text>
+          <line
+             id="line5222"
+             style="stroke: rgb(0, 0, 0); stroke-width: 1px;"
+             y2="55.100500000000004"
+             y1="0"
+             x2="0"
+             x1="0" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g5228" />
+  </g>
+</svg>
