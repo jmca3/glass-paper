@@ -1,0 +1,2400 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1150"
+   height="600"
+   viewBox="0 0 1150 600"
+   version="1.1"
+   id="svg754"
+   sodipodi:docname="global_glass_sankey_edited.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata760">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs758">
+    <clipPath
+       id="clipEmfPath1"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path3212"
+         d="M 0,0 L 573.61681,0 L 573.61681,274.42133 L 0,274.42133 z" />
+    </clipPath>
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2048"
+     inkscape:window-height="1089"
+     id="namedview756"
+     showgrid="false"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-text-baseline="true"
+     inkscape:snap-page="true"
+     inkscape:zoom="0.76104319"
+     inkscape:cx="420.89191"
+     inkscape:cy="269.08199"
+     inkscape:window-x="1358"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer3" />
+  <g
+     id="g750"
+     class="slice-titles"
+     transform="translate(130,25)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="flows"
+     style="display:inline">
+    <g
+       class="group"
+       transform="translate(130,52.188693)"
+       style="display:inline;stroke:none"
+       id="g6"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <rect
+         x="-9.9465513"
+         y="-19.94655"
+         width="20.893103"
+         height="366.52167"
+         style="fill:#eeeeee;stroke:none;stroke-width:0.60689795"
+         id="rect2" />
+      <text
+         x="-10"
+         y="-25"
+         style="fill:#999999;stroke:none"
+         id="text4">
+        <tspan
+           style="-inkscape-font-specification:Arial;font-family:Arial;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;stroke:none"
+           id="tspan3290">Raw material extraction</tspan>
+      </text>
+    </g>
+    <path
+       style="display:inline;fill:none;stroke:#c3aedf;stroke-width:11.09700012;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 130,365.48838 c 24.8694,-0.30155 43.64563,-12.15311 61.17702,-36.92779 33.9098,-47.92002 111.54852,-159.16014 118.14702,-168.60572 8.05485,-11.5303 23.79942,-34.44619 42.92596,-34.44619"
+       id="path1531"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssc"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <g
+       class="link"
+       style="opacity:1;fill:#000000"
+       id="g212"
+       transform="translate(130,25)"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <path
+         d="m 223.25,379.46322 a 73.525791,73.525791 0.8380306 0 1 54.65372,24.34233 L 379.5049,516.70696 a 87.438075,87.438075 0.8380306 0 0 64.9951,28.9483 v 8.82951 a 96.267592,96.267592 0.8380306 0 1 -71.55832,-31.8715 L 271.3405,409.71186 A 64.696274,64.696274 0.8380306 0 0 223.25,388.29273 Z"
+         style="fill:#000000"
+         id="path206"
+         inkscape:connector-curvature="0" />
+      <title
+         id="title208">Container glass melting → Process emissions
+Emission
+9.38</title>
+      <text
+         class="label"
+         dy="0.34999999em"
+         x="227.25"
+         y="383.87796"
+         id="text210"
+         style="fill:#000000" />
+    </g>
+    <g
+       class="link"
+       style="opacity:1;fill:#000000"
+       id="g260"
+       transform="translate(130,25)"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <path
+         d="m 223.25,105.62097 a 87.438075,87.438075 1.3659127 0 1 85.60928,69.64852 l 61.97719,298.25493 A 75.237138,75.237138 1.3659127 0 0 444.5,533.45432 v 12.20094 A 87.438075,87.438075 1.3659127 0 1 358.89072,476.00674 L 296.91353,177.75181 A 75.237138,75.237138 1.3659127 0 0 223.25,117.82191 Z"
+         style="fill:#000000"
+         id="path254"
+         inkscape:connector-curvature="0" />
+      <title
+         id="title256">Flat glass melting → Process emissions
+Emission
+13.0</title>
+      <text
+         class="label"
+         dy="0.34999999em"
+         x="227.25"
+         y="111.72144"
+         id="text258"
+         style="fill:#000000" />
+    </g>
+    <path
+       style="opacity:1;fill:none;stroke:#ff84ca;stroke-width:12.79100037;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 130,241.27123 c 23.41192,0 38.79359,7.6866 47.86204,14.98451 9.06845,7.29792 96.81672,77.03302 109.25486,86.85372 12.43814,9.8207 34.92701,21.53205 65.1331,21.53205"
+       id="path2346-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="czzc"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="opacity:1;fill:none;stroke:#ff84ca;stroke-width:17.67399979;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 130,226.03877 c 23.59873,0 40.79947,-6.0211 54.67987,-16.15077 13.8804,-10.12967 96.15605,-70.15505 113.5979,-82.95643 17.44185,-12.80138 37.43988,-15.80849 53.97223,-15.80849"
+       id="path2346"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="czzc"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <g
+       class="link"
+       style="opacity:1;fill:#cccccc;fill-opacity:0.99607843"
+       id="g236"
+       transform="translate(130,25)"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <path
+         d="m 222.25,150.9334 c -2.77457,0 -5.01855,-2.25913 -4.99989,-5.03364 v -22.96507 c -0.0633,-2.80532 2.19386,-5.11343 4.99989,-5.11278 v -11.76484 c -9.30304,0 -16.82705,7.57479 -16.76446,16.87762 v 22.96507 c -0.0186,9.27195 7.49249,16.79829 16.76446,16.79848 z"
+         style="fill:#cccccc;fill-opacity:0.99607843"
+         id="path230"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccc" />
+      <title
+         id="title232"> → Flat glass melting
+Forming scrap
+12.5</title>
+      <text
+         class="label"
+         dy="0.34999999em"
+         x="227.25"
+         y="238.81581"
+         id="text234"
+         style="fill:#cccccc;fill-opacity:0.99607843" />
+    </g>
+    <g
+       class="link"
+       style="opacity:1;fill:#cccccc;fill-opacity:0.99607843"
+       id="g244"
+       transform="translate(130,25)"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <path
+         d="m 445.5,93.856128 c 9.31482,0 16.84363,7.593262 16.76423,16.907742 v 35.12691 c 0.0236,9.27536 -7.48883,16.80715 -16.76423,16.80746 V 150.9334 c 2.81814,0.001 5.08036,-2.32592 4.99982,-5.14291 v -35.1269 c 0.0237,-2.77798 -2.22174,-5.04262 -4.99982,-5.04262 z"
+         style="fill:#cccccc;fill-opacity:0.99607843"
+         id="path238"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccc" />
+      <title
+         id="title240">Flat glass forming → 
+Forming scrap
+12.5</title>
+      <text
+         class="label"
+         dy="0.34999999em"
+         x="449.5"
+         y="99.738548"
+         id="text242"
+         style="fill:#cccccc;fill-opacity:0.99607843" />
+    </g>
+    <g
+       class="link"
+       style="opacity:1;fill:#cccccc;fill-opacity:0.99607843"
+       id="g252"
+       transform="translate(130,25)"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <path
+         d="M 222.25,150.9334 H 445.5 v 11.76484 H 222.25 Z"
+         style="fill:#cccccc;fill-opacity:0.99607843"
+         id="path246"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <title
+         id="title248"> → 
+Forming scrap
+12.5</title>
+      <text
+         class="label"
+         dy="0.34999999em"
+         x="449.5"
+         y="238.81581"
+         id="text250"
+         style="fill:#cccccc;fill-opacity:0.99607843" />
+    </g>
+    <g
+       class="link"
+       style="opacity:1;fill:#cccccc;fill-opacity:0.99444442"
+       id="g188"
+       transform="translate(130,25)"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <path
+         d="m 222.25,412.58928 c -2.79191,0 -5.04291,-2.28636 -4.99939,-5.07793 V 393.4992 c -0.11744,-2.84144 2.15552,-5.20855 4.99939,-5.20647 v -8.2471 c -7.39694,0 -13.36079,6.05753 -13.2455,13.45357 v 14.01215 c -0.0432,7.34596 5.89941,13.32427 13.2455,13.32503 z"
+         style="fill:#cccccc;fill-opacity:0.99444442"
+         id="path182"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccc" />
+      <title
+         id="title184"> → Container glass melting
+Forming scrap
+8.76</title>
+      <text
+         style="fill:#cccccc;fill-opacity:0.99444442"
+         class="label"
+         dy="0.34999999em"
+         x="227.25"
+         y="430.0741"
+         id="text186" />
+    </g>
+    <g
+       class="link"
+       style="opacity:1;fill:#cccccc;fill-opacity:0.99444442"
+       id="g196"
+       transform="translate(130,25)"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <path
+         d="m 445.5,371.21611 c 7.47795,0 13.47371,6.18563 13.24067,13.65994 v 22.5574 c 0.0867,7.37443 -5.86573,13.39986 -13.24067,13.40293 v -8.24711 c 2.93007,0.009 5.23951,-2.49277 4.99757,-5.41284 v -22.55739 c 0.088,-2.82111 -2.17509,-5.15582 -4.99757,-5.15582 z"
+         style="fill:#cccccc;fill-opacity:0.99444442"
+         id="path190"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccc" />
+      <title
+         id="title192">Container glass forming → 
+Forming scrap
+8.76</title>
+      <text
+         style="fill:#cccccc;fill-opacity:0.99444442"
+         class="label"
+         dy="0.34999999em"
+         x="449.5"
+         y="375.33966"
+         id="text194" />
+    </g>
+    <g
+       class="link"
+       style="opacity:1;fill:#cccccc;fill-opacity:0.99444442"
+       id="g204"
+       transform="translate(130,25)"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <path
+         d="m 221.25,412.58928 225.25,-10e-6 v 8.24711 H 221.25 Z"
+         style="fill:#cccccc;fill-opacity:0.99444442"
+         id="path198"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <title
+         id="title200"> → 
+Forming scrap
+8.76</title>
+      <text
+         style="fill:#cccccc;fill-opacity:0.99444442"
+         class="label"
+         dy="0.34999999em"
+         x="449.5"
+         y="425.65936"
+         id="text202" />
+    </g>
+    <g
+       style="fill:#cccccc;fill-opacity:0.99444442"
+       class="node"
+       transform="translate(352.25,450.95056)"
+       id="g480">
+      <title
+         id="title468" />
+      <line
+         x1="0"
+         x2="0"
+         y1="-5"
+         y2="8.2471066"
+         style="display:none;fill:#cccccc;fill-opacity:0.99444442;stroke:#000000"
+         id="line470" />
+      <text
+         class="node-value"
+         dy="0.34999999em"
+         transform="rotate(-90,2.3117767,1.8117767)"
+         style="text-anchor:middle;display:none;fill:#cccccc;fill-opacity:0.99444442"
+         id="text474" />
+      <text
+         class="node-title"
+         dy="0.34999999em"
+         transform="translate(-4,-10)"
+         style="text-anchor:start;display:none;fill:#cccccc;fill-opacity:0.99444442"
+         id="text476" />
+    </g>
+    <g
+       style="fill:#cccccc;fill-opacity:0.99444442"
+       class="node"
+       transform="translate(574.5,446.5358)"
+       id="g550">
+      <title
+         id="title538" />
+      <line
+         x1="0"
+         x2="0"
+         y1="-5"
+         y2="8.2471066"
+         style="display:none;fill:#cccccc;fill-opacity:0.99444442;stroke:#000000"
+         id="line540" />
+      <text
+         class="node-value"
+         dy="0.34999999em"
+         transform="rotate(-90,2.3117767,1.8117767)"
+         style="text-anchor:middle;display:none;fill:#cccccc;fill-opacity:0.99444442"
+         id="text544" />
+      <text
+         class="node-title"
+         dy="0.34999999em"
+         transform="translate(-4,-10)"
+         style="text-anchor:start;display:none;fill:#cccccc;fill-opacity:0.99444442"
+         id="text546" />
+    </g>
+    <g
+       class="group"
+       transform="translate(352.25,257.9334)"
+       style="display:none"
+       id="g12">
+      <rect
+         x="-10"
+         y="-20"
+         width="21"
+         height="41.764843"
+         style="fill:#eeeeee;stroke:#bbbbbb;stroke-width:0.5"
+         id="rect8" />
+      <text
+         x="-10"
+         y="-25"
+         style="fill:#999999"
+         id="text10" />
+    </g>
+    <g
+       class="group"
+       transform="translate(352.25,450.95056)"
+       style="display:none"
+       id="g18">
+      <rect
+         x="-10"
+         y="-20"
+         width="21"
+         height="38.247108"
+         style="fill:#eeeeee;stroke:#bbbbbb;stroke-width:0.5"
+         id="rect14" />
+      <text
+         x="-10"
+         y="-25"
+         style="fill:#999999"
+         id="text16" />
+    </g>
+    <g
+       class="group"
+       transform="translate(352.25,496.85549)"
+       style="display:none"
+       id="g24">
+      <rect
+         x="-10"
+         y="-20"
+         width="21"
+         height="55.978386"
+         style="fill:#eeeeee;stroke:#bbbbbb;stroke-width:0.5"
+         id="rect20" />
+      <text
+         x="-10"
+         y="-25"
+         style="fill:#999999"
+         id="text22" />
+    </g>
+    <g
+       class="group"
+       transform="translate(574.5,257.9334)"
+       style="display:none"
+       id="g30">
+      <rect
+         x="-10"
+         y="-20"
+         width="21"
+         height="41.764843"
+         style="fill:#eeeeee;stroke:#bbbbbb;stroke-width:0.5"
+         id="rect26" />
+      <text
+         x="-10"
+         y="-25"
+         style="fill:#999999"
+         id="text28" />
+    </g>
+    <g
+       class="group"
+       transform="translate(574.5,446.5358)"
+       style="display:none"
+       id="g36">
+      <rect
+         x="-10"
+         y="-20"
+         width="21"
+         height="38.247108"
+         style="fill:#eeeeee;stroke:#bbbbbb;stroke-width:0.5"
+         id="rect32" />
+      <text
+         x="-10"
+         y="-25"
+         style="fill:#999999"
+         id="text34" />
+    </g>
+    <g
+       class="group"
+       transform="translate(574.5,496.85549)"
+       style="display:none"
+       id="g42">
+      <rect
+         x="-10"
+         y="-20"
+         width="21"
+         height="55.978386"
+         style="fill:#eeeeee;stroke:#bbbbbb;stroke-width:0.5"
+         id="rect38" />
+      <text
+         x="-10"
+         y="-25"
+         style="fill:#999999"
+         id="text40" />
+    </g>
+    <g
+       class="group"
+       transform="translate(796.75,52.188693)"
+       style="display:inline;stroke:none"
+       id="g48"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <rect
+         x="-10"
+         y="-20"
+         width="21"
+         height="247.50955"
+         style="fill:#eeeeee;stroke:none;stroke-width:0.5"
+         id="rect44" />
+      <text
+         x="-10"
+         y="-25"
+         style="fill:#999999;stroke:none"
+         id="text46">
+        <tspan
+           style="-inkscape-font-specification:Arial;font-family:Arial;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;stroke:none"
+           id="tspan3304">Use of flat glass</tspan>
+      </text>
+    </g>
+    <g
+       class="group"
+       transform="translate(796.75,321.99215)"
+       style="display:inline;stroke:none"
+       id="g54"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <rect
+         x="-10"
+         y="-20"
+         width="21"
+         height="171.31688"
+         style="fill:#eeeeee;stroke:none;stroke-width:0.5"
+         id="rect50" />
+      <text
+         x="-10"
+         y="-25"
+         style="fill:#999999;stroke:none"
+         id="text52">
+        <tspan
+           style="-inkscape-font-specification:Arial;font-family:Arial;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;stroke:none"
+           id="tspan3320">Use of containers</tspan>
+      </text>
+    </g>
+    <g
+       class="group"
+       transform="translate(796.75,496.85549)"
+       style="display:none"
+       id="g60">
+      <rect
+         x="-10"
+         y="-20"
+         width="21"
+         height="55.978386"
+         style="fill:#eeeeee;stroke:#bbbbbb;stroke-width:0.5"
+         id="rect56" />
+      <text
+         x="-10"
+         y="-25"
+         style="fill:#999999"
+         id="text58" />
+    </g>
+    <g
+       class="group"
+       transform="translate(1019,52.188693)"
+       style="display:inline;stroke:none"
+       id="g66"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <rect
+         x="-9.914505"
+         y="-19.914505"
+         width="20.82901"
+         height="449.40045"
+         style="fill:#eeeeee;stroke:none;stroke-width:0.6709891"
+         id="rect62" />
+      <text
+         x="-10"
+         y="-25"
+         style="fill:#999999;stroke:none"
+         id="text64">
+        <tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;stroke:none"
+           id="tspan3306">Disposal</tspan>
+      </text>
+    </g>
+    <g
+       class="link"
+       style="opacity:1;fill:#cccccc;fill-opacity:1"
+       id="g100"
+       transform="translate(130,25)"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <path
+         d="m 667.75,436.65957 c 3.7831,0 7.01722,3.15191 6.8567,6.9316 l 10e-4,10.71304 h -1.9982 l -10e-4,-10.79794 c 0.11224,-2.64285 -2.21327,-4.84674 -4.8585,-4.84674 z"
+         style="fill:#cccccc;fill-opacity:1"
+         id="path94"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccc" />
+      <title
+         id="title96">Other CG → 
+Other CG
+1.38</title>
+      <text
+         class="label"
+         dy="0.34999999em"
+         x="671.75"
+         y="437.65958"
+         id="text98"
+         style="fill:#cccccc;fill-opacity:1" />
+    </g>
+    <g
+       class="link"
+       style="opacity:1;fill:#cccccc;fill-opacity:1"
+       id="g156"
+       transform="translate(130,25)"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <path
+         d="m 668.74477,395.85569 c 6.05937,0 11.04992,4.96493 10.95028,11.02348 l 10e-4,47.42504 h -5.19497 l -10e-4,-47.51044 c 0.0519,-3.15603 -2.59885,-5.74236 -5.75531,-5.74236 l -0.99477,-4e-5 v -5.19568 z"
+         style="fill:#cccccc;fill-opacity:1"
+         id="path150"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="scccccccs" />
+      <title
+         id="title152">Food → 
+Food
+5.52</title>
+      <text
+         class="label"
+         dy="0.34999999em"
+         x="671.75"
+         y="398.45352"
+         id="text154"
+         style="fill:#cccccc;fill-opacity:1" />
+    </g>
+    <g
+       class="link"
+       style="opacity:1;fill:#cccccc;fill-opacity:1"
+       id="g316"
+       transform="translate(130,25)"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <path
+         d="m 671.34299,333.17633 c 15.41472,0 27.87109,12.57095 27.72993,27.98503 v 93.14285 h -19.48298 v -93.32127 c 0.042,-4.58419 -3.66257,-8.32282 -8.24695,-8.32282 H 667.75 v -19.48379 z"
+         style="fill:#cccccc;fill-opacity:1"
+         id="path310"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <title
+         id="title312">Beverages → 
+Beverages
+20.7</title>
+      <text
+         class="label"
+         dy="0.34999999em"
+         x="671.75"
+         y="342.91821"
+         id="text314"
+         style="fill:#cccccc;fill-opacity:1" />
+    </g>
+    <g
+       class="link"
+       style="opacity:1;fill:#77cbf0;fill-opacity:1"
+       id="g124"
+       transform="translate(130,25)"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <path
+         d="m 445.5,367.50491 a 121.36081,121.36081 0.36117995 0 1 42.88628,7.83014 l 136.7889,51.67209 a 117.64961,117.64961 0.36117995 0 0 41.57482,7.59069 v 3.7112 a 121.36081,121.36081 0.36117995 0 1 -42.88628,-7.83014 L 487.07482,378.8068 A 117.64961,117.64961 0.36117995 0 0 445.5,371.21611 Z"
+         style="fill:#77cbf0;fill-opacity:1"
+         id="path118"
+         inkscape:connector-curvature="0" />
+      <title
+         id="title120">Container glass forming → Other CG
+Other CG
+3.94</title>
+      <text
+         class="label"
+         dy="0.34999999em"
+         x="449.5"
+         y="369.3605"
+         id="text122"
+         style="fill:#77cbf0;fill-opacity:1" />
+    </g>
+    <g
+       class="link"
+       style="opacity:0.8"
+       id="g132"
+       transform="translate(130,25)"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <path
+         d="m 445.5,82.522664 a 110.66974,110.66974 0.40313907 0 1 43.41659,8.871945 l 135.98607,57.997831 a 106.66969,106.66969 0.40313907 0 0 41.84734,8.55128 v 4.00005 a 110.66974,110.66974 0.40313907 0 1 -43.41659,-8.87195 L 487.34734,95.073988 A 106.66969,106.66969 0.40313907 0 0 445.5,86.52271 Z"
+         style="fill:#6a3d9a"
+         id="path126"
+         inkscape:connector-curvature="0" />
+      <title
+         id="title128">Flat glass forming → Automotive
+Automotive
+4.25</title>
+      <text
+         class="label"
+         dy="0.34999999em"
+         x="449.5"
+         y="84.52269"
+         id="text130" />
+    </g>
+    <g
+       class="link"
+       style="opacity:1;fill:#238ed3;fill-opacity:1"
+       id="g172"
+       transform="translate(130,25)"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <path
+         d="m 445.5,86.52271 a 74.971305,74.971305 0.73706021 0 1 50.38927,19.45898 L 621.28963,219.80925 A 67.637887,67.637887 0.73706021 0 0 666.75,237.36482 v 7.33342 A 74.971305,74.971305 0.73706021 0 1 616.36073,225.23926 L 490.96037,111.4117 A 67.637887,67.637887 0.73706021 0 0 445.5,93.856128 Z"
+         style="fill:#238ed3;fill-opacity:1"
+         id="path166"
+         inkscape:connector-curvature="0" />
+      <title
+         id="title168">Flat glass forming → Other FG
+Other FG
+7.79</title>
+      <text
+         class="label"
+         dy="0.34999999em"
+         x="449.5"
+         y="90.189423"
+         id="text170"
+         style="fill:#238ed3;fill-opacity:1" />
+    </g>
+    <g
+       class="link"
+       style="opacity:1;fill:#c3aedf;fill-opacity:1;stroke:none;stroke-opacity:0.8"
+       id="g180"
+       transform="translate(130,25)"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <path
+         d="m 0,346.03677 c 0,0 145.58258,0 222.25,0 v 8.03047 H 0 Z"
+         style="fill:#c3aedf;fill-opacity:1;stroke:none;stroke-opacity:0.8"
+         id="path174"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <title
+         id="title176">Limestone → Container glass melting
+Limestone
+8.53</title>
+      <text
+         class="label"
+         dy="0.34999999em"
+         x="5"
+         y="240.683"
+         id="text178"
+         style="fill:#c3aedf;fill-opacity:1;stroke:none;stroke-opacity:0.8" />
+    </g>
+    <g
+       class="link"
+       style="opacity:1;fill:#77cbf0;fill-opacity:1"
+       id="g276"
+       transform="translate(130,25)"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <path
+         d="m 445.5,352.66012 a 231.33691,231.33691 0.18441657 0 1 42.42095,3.92269 l 139.13024,25.9528 a 216.49211,216.49211 0.18441657 0 0 39.69881,3.67097 v 14.84479 a 231.33691,231.33691 0.18441657 0 1 -42.42095,-3.92269 L 485.19881,371.17588 A 216.49211,216.49211 0.18441657 0 0 445.5,367.50491 Z"
+         style="fill:#77cbf0;fill-opacity:1"
+         id="path270"
+         inkscape:connector-curvature="0" />
+      <title
+         id="title272">Container glass forming → Food
+Food
+15.8</title>
+      <text
+         class="label"
+         dy="0.34999999em"
+         x="449.5"
+         y="360.08252"
+         id="text274"
+         style="fill:#77cbf0;fill-opacity:1" />
+    </g>
+    <g
+       class="link"
+       style="opacity:1;fill:#999999"
+       id="g292"
+       transform="translate(130,25)"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <path
+         d="M 667.75,27.188693 H 889 v 19.20307 H 667.75 Z"
+         style="fill:#999999"
+         id="path286"
+         inkscape:connector-curvature="0" />
+      <title
+         id="title288">Buildings → Buildings
+Buildings
+20.4</title>
+      <text
+         class="label"
+         dy="0.34999999em"
+         x="671.75"
+         y="36.79023"
+         id="text290"
+         style="fill:#999999" />
+    </g>
+    <g
+       class="link"
+       style="opacity:1;fill:#9981cb;fill-opacity:1"
+       id="g348"
+       transform="translate(130,25)"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <path
+         d="m 1,27.188693 h 221.25 v 50.09719 H 1 Z"
+         style="fill:#9981cb;fill-opacity:1"
+         id="path342"
+         inkscape:connector-curvature="0" />
+      <title
+         id="title344">Silica → Flat glass melting
+Silica
+53.2</title>
+      <text
+         class="label"
+         dy="0.34999999em"
+         x="5"
+         y="52.237289"
+         id="text346"
+         style="fill:#9981cb;fill-opacity:1" />
+    </g>
+    <g
+       class="link"
+       style="opacity:1;fill:#238ed3;fill-opacity:1"
+       id="g356"
+       transform="translate(130,25)"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <path
+         d="M 445.5,27.188693 H 666.75 V 82.522664 H 445.5 Z"
+         style="fill:#238ed3;fill-opacity:1"
+         id="path350"
+         inkscape:connector-curvature="0" />
+      <title
+         id="title352">Flat glass forming → Buildings
+Buildings
+58.8</title>
+      <text
+         class="label"
+         dy="0.34999999em"
+         x="449.5"
+         y="54.855679"
+         id="text354"
+         style="fill:#238ed3;fill-opacity:1" />
+    </g>
+    <g
+       class="link"
+       style="opacity:1;fill:#77cbf0;fill-opacity:1"
+       id="g364"
+       transform="translate(130,25)"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <path
+         d="m 445.5,296.99215 h 221.25 v 55.66797 H 445.5 Z"
+         style="fill:#77cbf0;fill-opacity:1"
+         id="path358"
+         inkscape:connector-curvature="0" />
+      <title
+         id="title360">Container glass forming → Beverages
+Beverages
+59.1</title>
+      <text
+         class="label"
+         dy="0.34999999em"
+         x="449.5"
+         y="324.82614"
+         id="text362"
+         style="fill:#77cbf0;fill-opacity:1" />
+    </g>
+    <g
+       class="link"
+       style="opacity:1;fill:#00af1e;fill-opacity:1"
+       id="g372"
+       transform="translate(130,25)"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <path
+         d="M 223.25,27.188693 H 444.5 V 105.62097 H 223.25 Z"
+         style="fill:#00af1e;fill-opacity:1"
+         id="path366"
+         inkscape:connector-curvature="0" />
+      <title
+         id="title368">Flat glass melting → Flat glass forming
+Liquid glass
+83.3</title>
+      <text
+         class="label"
+         dy="0.34999999em"
+         x="227.25"
+         y="66.404831"
+         id="text370"
+         style="fill:#00af1e;fill-opacity:1" />
+    </g>
+    <g
+       class="link"
+       style="opacity:1;fill:#85dd8c;fill-opacity:1"
+       id="g380"
+       transform="translate(130,25)"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <path
+         d="M 223.25,296.99215 H 444.5 v 82.47107 H 223.25 Z"
+         style="fill:#85dd8c;fill-opacity:1"
+         id="path374"
+         inkscape:connector-curvature="0" />
+      <title
+         id="title376">Container glass melting → Container glass forming
+Liquid glass
+87.6</title>
+      <text
+         class="label"
+         dy="0.34999999em"
+         x="227.25"
+         y="338.22769"
+         id="text378"
+         style="fill:#85dd8c;fill-opacity:1" />
+    </g>
+    <g
+       class="node"
+       transform="translate(130,52.188721)"
+       id="g396"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <title
+         id="title384">Silica</title>
+      <line
+         x1="0"
+         x2="0"
+         y1="0"
+         y2="86.351288"
+         style="display:inline;stroke:#000000"
+         id="line386" />
+      <rect
+         class="node-body"
+         width="1"
+         height="86.351288"
+         style="fill:none"
+         id="rect388"
+         x="0"
+         y="0" />
+      <text
+         class="node-value"
+         dy="0.34999999em"
+         transform="rotate(-90,21.837822,21.337822)"
+         style="text-anchor:middle;display:none"
+         id="text390" />
+      <text
+         class="node-title"
+         dy="0.34999999em"
+         transform="translate(-4,43.175645)"
+         style="text-anchor:end;display:inline"
+         id="text392">
+        <tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
+           id="tspan3292">Silica 92</tspan>
+      </text>
+      <rect
+         class="node-click-target"
+         x="-5"
+         y="-5"
+         width="10"
+         height="91.351288"
+         style="visibility:hidden;fill:none"
+         id="rect394" />
+    </g>
+    <g
+       class="node"
+       transform="translate(352.25,257.9334)"
+       id="g452"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <title
+         id="title440" />
+      <line
+         x1="0"
+         x2="0"
+         y1="-5"
+         y2="11.764841"
+         style="display:none;stroke:#000000"
+         id="line442" />
+      <rect
+         class="node-body"
+         width="1"
+         height="11.764841"
+         style="fill:none"
+         id="rect444"
+         x="0"
+         y="0" />
+      <text
+         class="node-value"
+         dy="0.34999999em"
+         transform="rotate(-90,3.1912104,2.6912104)"
+         style="text-anchor:middle;display:none"
+         id="text446" />
+      <text
+         class="node-title"
+         dy="0.34999999em"
+         transform="translate(-4,-10)"
+         style="text-anchor:start;display:none"
+         id="text448" />
+      <rect
+         class="node-click-target"
+         x="-5"
+         y="-5"
+         width="10"
+         height="16.764841"
+         style="visibility:hidden;fill:none"
+         id="rect450" />
+    </g>
+    <rect
+       y="321.99216"
+       x="352.25"
+       id="rect458"
+       style="fill:none"
+       height="91.300583"
+       width="1"
+       class="node-body"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       id="text460"
+       style="text-anchor:middle;display:none"
+       transform="rotate(-90)"
+       dy="4.1999998"
+       class="node-value"
+       x="-367.64246"
+       y="352.75" />
+    <rect
+       id="rect464"
+       style="visibility:hidden;fill:none"
+       height="96.300583"
+       width="10"
+       y="316.99216"
+       x="347.25"
+       class="node-click-target"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <g
+       class="node"
+       transform="translate(352.25,496.85549)"
+       id="g494"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <title
+         id="title482" />
+      <line
+         x1="0"
+         x2="0"
+         y1="-5"
+         y2="25.978388"
+         style="display:none;stroke:#000000"
+         id="line484" />
+      <rect
+         class="node-body"
+         width="1"
+         height="25.978388"
+         style="fill:none"
+         id="rect486"
+         x="0"
+         y="0" />
+      <text
+         class="node-value"
+         dy="0.34999999em"
+         transform="rotate(-90,6.7445968,6.2445968)"
+         style="text-anchor:middle;display:none"
+         id="text488" />
+      <text
+         class="node-title"
+         dy="0.34999999em"
+         transform="translate(-4,-10)"
+         style="text-anchor:start;display:none"
+         id="text490" />
+      <rect
+         class="node-click-target"
+         x="-5"
+         y="-5"
+         width="10"
+         height="30.978388"
+         style="visibility:hidden;fill:none"
+         id="rect492" />
+    </g>
+    <g
+       class="node"
+       transform="translate(574.5,257.9334)"
+       id="g522"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <title
+         id="title510" />
+      <line
+         x1="0"
+         x2="0"
+         y1="-5"
+         y2="11.764841"
+         style="display:none;stroke:#000000"
+         id="line512" />
+      <rect
+         class="node-body"
+         width="1"
+         height="11.764841"
+         style="fill:none"
+         id="rect514"
+         x="0"
+         y="0" />
+      <text
+         class="node-value"
+         dy="0.34999999em"
+         transform="rotate(-90,3.1912104,2.6912104)"
+         style="text-anchor:middle;display:none"
+         id="text516" />
+      <text
+         class="node-title"
+         dy="0.34999999em"
+         transform="translate(-4,-10)"
+         style="text-anchor:start;display:none"
+         id="text518" />
+      <rect
+         class="node-click-target"
+         x="-5"
+         y="-5"
+         width="10"
+         height="16.764841"
+         style="visibility:hidden;fill:none"
+         id="rect520" />
+    </g>
+    <g
+       class="node"
+       transform="translate(574.5,558.45432)"
+       id="g578"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <title
+         id="title566">Process emissions</title>
+      <line
+         x1="0"
+         x2="0"
+         y1="0"
+         y2="21.030455"
+         style="display:inline;stroke:#000000"
+         id="line568" />
+      <rect
+         class="node-body"
+         width="1"
+         height="21.030455"
+         style="fill:none"
+         id="rect570"
+         x="0"
+         y="0" />
+      <text
+         class="node-value"
+         dy="0.34999999em"
+         transform="rotate(-90,5.5076135,5.0076135)"
+         style="text-anchor:middle;display:none"
+         id="text572" />
+      <text
+         class="node-title"
+         dy="0.34999999em"
+         transform="translate(5,10.515227)"
+         style="text-anchor:start;display:inline"
+         id="text574">
+        <tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
+           id="tspan3302">Process emissions 22</tspan>
+      </text>
+      <rect
+         class="node-click-target"
+         x="-5"
+         y="-5"
+         width="10"
+         height="26.030455"
+         style="visibility:hidden;fill:none"
+         id="rect576" />
+    </g>
+    <g
+       class="node"
+       transform="translate(796.75,262.36482)"
+       id="g620"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <title
+         id="title608">Other FG</title>
+      <line
+         x1="0"
+         x2="0"
+         y1="0"
+         y2="7.3334179"
+         style="display:inline;stroke:#000000"
+         id="line610" />
+      <rect
+         class="node-body"
+         width="1"
+         height="7.3334179"
+         style="fill:none"
+         id="rect612"
+         x="0"
+         y="0" />
+      <text
+         class="node-value"
+         dy="0.34999999em"
+         transform="rotate(-90,2.0833545,1.5833545)"
+         style="text-anchor:middle;display:none"
+         id="text614" />
+      <text
+         class="node-title"
+         dy="0.34999999em"
+         transform="translate(5,3.6667089)"
+         style="text-anchor:start;display:inline"
+         id="text616">
+        <tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
+           id="tspan3312">Other 8</tspan>
+      </text>
+      <rect
+         class="node-click-target"
+         x="-5"
+         y="-5"
+         width="10"
+         height="12.333418"
+         style="visibility:hidden;fill:none"
+         id="rect618" />
+    </g>
+    <g
+       class="node"
+       transform="translate(796.75,411.20658)"
+       id="g648"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <title
+         id="title636">Food</title>
+      <line
+         x1="0"
+         x2="0"
+         y1="-5"
+         y2="14.844792"
+         style="display:inline;stroke:#000000"
+         id="line638" />
+      <rect
+         class="node-body"
+         width="1"
+         height="14.844792"
+         style="fill:none"
+         id="rect640"
+         x="0"
+         y="0" />
+      <text
+         class="node-value"
+         dy="0.34999999em"
+         transform="rotate(-90,3.9611981,3.4611981)"
+         style="text-anchor:middle;display:none"
+         id="text642" />
+      <text
+         class="node-title"
+         dy="0.34999999em"
+         transform="translate(-4,-10)"
+         style="text-anchor:start;display:inline"
+         id="text644">
+        <tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
+           id="tspan3316">Food 16</tspan>
+      </text>
+      <rect
+         class="node-click-target"
+         x="-5"
+         y="-5"
+         width="10"
+         height="19.844793"
+         style="visibility:hidden;fill:none"
+         id="rect646" />
+    </g>
+    <g
+       class="node"
+       transform="translate(796.75,459.59783)"
+       id="g662"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <title
+         id="title650">Other CG</title>
+      <line
+         x1="0"
+         x2="0"
+         y1="-5"
+         y2="3.7111981"
+         style="display:inline;stroke:#000000"
+         id="line652" />
+      <rect
+         class="node-body"
+         width="1"
+         height="3.7111981"
+         style="fill:none"
+         id="rect654"
+         x="0"
+         y="0" />
+      <text
+         class="node-value"
+         dy="0.34999999em"
+         transform="rotate(-90,1.1777995,0.67779954)"
+         style="text-anchor:middle;display:none"
+         id="text656" />
+      <text
+         class="node-title"
+         dy="0.34999999em"
+         transform="translate(-4,-10)"
+         style="text-anchor:start;display:inline"
+         id="text658">
+        <tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
+           id="tspan3318">Other 4</tspan>
+      </text>
+      <rect
+         class="node-click-target"
+         x="-5"
+         y="-5"
+         width="10"
+         height="8.7111979"
+         style="visibility:hidden;fill:none"
+         id="rect660" />
+    </g>
+    <rect
+       y="52.188694"
+       x="1019"
+       id="rect682"
+       style="fill:none"
+       height="19.20307"
+       width="1"
+       class="node-body"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       id="text684"
+       style="text-anchor:middle;display:none"
+       transform="rotate(-90)"
+       dy="4.1999998"
+       class="node-value"
+       x="-61.790218"
+       y="1019.5" />
+    <rect
+       id="rect688"
+       style="visibility:hidden;fill:none"
+       height="24.20307"
+       width="10"
+       y="47.188694"
+       x="1014"
+       class="node-click-target"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 575.5,107.52267 a 110.66974,110.66974 0 0 1 43.41659,8.87194 l 135.98607,57.99783 a 106.66969,106.66969 0 0 0 41.84734,8.55128 v 4.00005 a 110.66974,110.66974 0 0 1 -43.41659,-8.87195 L 617.34734,120.07399 A 106.66969,106.66969 0 0 0 575.5,111.52271 Z"
+       style="opacity:1;fill:#238ed3;fill-opacity:1"
+       id="path126-2"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 130,217.20157 v 17.6744"
+       id="path2344"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 130,234.87597 V 247.6665"
+       id="path2363"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <g
+       class="node"
+       transform="translate(130,217.20157)"
+       id="g410-8"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <title
+         id="title398-4">Soda Ash</title>
+      <line
+         x1="0"
+         x2="0"
+         y1="0"
+         y2="30.464931"
+         style="display:inline;stroke:#000000"
+         id="line400-5" />
+      <rect
+         class="node-body"
+         width="1"
+         height="30.464931"
+         style="fill:none"
+         id="rect402-7"
+         x="0"
+         y="0" />
+      <text
+         class="node-value"
+         dy="0.34999999em"
+         transform="rotate(-90,7.8662326,7.3662326)"
+         style="text-anchor:middle;display:none"
+         id="text404-9" />
+      <text
+         class="node-title"
+         dy="0.34999999em"
+         transform="translate(-4,15.232465)"
+         style="text-anchor:end;display:inline"
+         id="text406-6">
+        <tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
+           id="tspan3294">Soda Ash 32</tspan>
+      </text>
+      <rect
+         class="node-click-target"
+         x="-5"
+         y="-5"
+         width="10"
+         height="35.464931"
+         style="visibility:hidden;fill:none"
+         id="rect408-2" />
+    </g>
+    <rect
+       y="459.59784"
+       x="1019"
+       id="rect738-4"
+       style="fill:none"
+       height="2.4122789"
+       width="1"
+       class="node-body"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       id="text740-1"
+       style="text-anchor:middle;display:none"
+       transform="rotate(-90)"
+       dy="4.1999998"
+       class="node-value"
+       x="-460.80396"
+       y="1019.5" />
+    <rect
+       id="rect744-9"
+       style="visibility:hidden;fill:none"
+       height="7.4122787"
+       width="10"
+       y="454.59784"
+       x="1014"
+       class="node-click-target"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <g
+       class="link"
+       style="display:inline;opacity:1;fill:#999999"
+       id="g116-9"
+       transform="translate(130,25)"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <path
+         d="M 667.75,434.59783 H 889 v 2.41228 H 667.75 Z"
+         style="fill:#999999"
+         id="path110-0"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <title
+         id="title112-5">Other CG → Other CG
+Other CG
+2.56</title>
+      <text
+         class="label"
+         dy="0.34999999em"
+         x="671.75"
+         y="435.80396"
+         id="text114-5"
+         style="fill:#999999" />
+    </g>
+    <rect
+       y="411.20657"
+       x="1019"
+       id="rect724-6"
+       style="fill:none"
+       height="9.6491156"
+       width="1"
+       class="node-body"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       id="text726-4"
+       style="text-anchor:middle;display:none"
+       transform="rotate(-90)"
+       dy="4.1999998"
+       class="node-value"
+       x="-416.03113"
+       y="1019.5" />
+    <rect
+       id="rect730-3"
+       style="visibility:hidden;fill:none"
+       height="14.649116"
+       width="10"
+       y="406.20657"
+       x="1014"
+       class="node-click-target"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <rect
+       y="321.99216"
+       x="1019"
+       id="rect710-5"
+       style="fill:none"
+       height="36.184181"
+       width="1"
+       class="node-body"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       id="text712-9"
+       style="text-anchor:middle;display:none"
+       transform="rotate(-90)"
+       dy="4.1999998"
+       class="node-value"
+       x="-340.08423"
+       y="1019.5" />
+    <rect
+       id="rect716-8"
+       style="visibility:hidden;fill:none"
+       height="41.184181"
+       width="10"
+       y="316.99216"
+       x="1014"
+       class="node-click-target"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <g
+       class="link"
+       style="display:inline;opacity:1;fill:#999999"
+       id="g220-6"
+       transform="translate(130,25)"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <path
+         d="M 667.75,386.20658 H 889 v 9.64911 H 667.75 Z"
+         style="fill:#999999"
+         id="path214-6"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <title
+         id="title216-8">Food → Food
+Food
+10.3</title>
+      <text
+         class="label"
+         dy="0.34999999em"
+         x="671.75"
+         y="391.03113"
+         id="text218-4"
+         style="fill:#999999" />
+    </g>
+    <line
+       id="line694-8"
+       style="display:inline;stroke:#000000"
+       y2="184.65221"
+       y1="183.65221"
+       x2="1019"
+       x1="1019"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <rect
+       y="183.65221"
+       x="1019"
+       id="rect696-1"
+       style="fill:none"
+       height="1"
+       width="1"
+       class="node-body"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       id="text698-6"
+       style="text-anchor:middle;display:none"
+       dy="4.1999998"
+       class="node-value"
+       x="1019.5"
+       y="184.01617" />
+    <rect
+       id="rect702-1"
+       style="visibility:hidden;fill:none"
+       height="6"
+       width="10"
+       y="178.65221"
+       x="1014"
+       class="node-click-target"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <g
+       class="link"
+       style="display:inline;opacity:1;fill:#b3b3b3"
+       id="g76-3"
+       transform="translate(129,25.636045)"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <path
+         d="M 668.28307,156.47025 890,157.30768 v 2 l -221.71693,-0.83743 z"
+         style="fill:#b3b3b3"
+         id="path70-8"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <title
+         id="title72-6">Automotive → Automotive
+Automotive
+773m</title>
+      <text
+         class="label"
+         dy="0.34999999em"
+         x="671.75"
+         y="158.30769"
+         id="text74-5"
+         style="fill:#b3b3b3" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="348.25"
+       y="299.52548"
+       id="text3265"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan3263"
+         x="348.25"
+         y="299.52548"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial">Container glass </tspan><tspan
+         sodipodi:role="line"
+         x="348.25"
+         y="316.19214"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:Arial"
+         id="tspan3267">melting 97</tspan></text>
+    <path
+       style="display:inline;opacity:1;fill:none;stroke:#cccccc;stroke-width:26.32900047;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 352.25,392.23171 c -16.96384,0 -30.71575,13.75191 -30.71575,30.71575 v 56.35675 c 0,16.96384 13.75191,30.71575 30.71575,30.71575 h 4 l 426.97656,-1e-5 1.9673,1e-5 c 16.96384,0 30.71575,-13.75191 30.71575,-30.71575 v -2.11024"
+       id="path2432-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 352.25,379.06724 v 26.32893"
+       id="path2430-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <g
+       class="node"
+       transform="translate(130,359.94)"
+       id="g424-7"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <title
+         id="title412-4">Limestone</title>
+      <line
+         x1="0"
+         x2="0"
+         y1="0"
+         y2="19.127245"
+         style="display:inline;stroke:#000000"
+         id="line414-3" />
+      <rect
+         class="node-body"
+         width="1"
+         height="19.127245"
+         style="fill:none"
+         id="rect416-7"
+         x="0"
+         y="0" />
+      <text
+         class="node-value"
+         dy="0.34999999em"
+         transform="rotate(-90,5.0318114,4.5318114)"
+         style="text-anchor:middle;display:none"
+         id="text418-5" />
+      <text
+         class="node-title"
+         dy="0.34999999em"
+         transform="translate(-4,9.5636228)"
+         style="text-anchor:end;display:inline"
+         id="text420-7">
+        <tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
+           id="tspan3296">Limestone 20</tspan>
+      </text>
+      <rect
+         class="node-click-target"
+         x="-5"
+         y="-5"
+         width="10"
+         height="24.127245"
+         style="visibility:hidden;fill:none"
+         id="rect422-0" />
+    </g>
+    <line
+       id="line680"
+       style="display:inline;stroke:#000000"
+       y2="71.391762"
+       y1="52.188694"
+       x2="1019"
+       x1="1019"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <g
+       class="link"
+       style="display:inline;opacity:1;fill:#999999"
+       id="g332-5"
+       transform="translate(130,25)"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <path
+         d="M 667.75,296.99215 H 889 v 36.18418 H 667.75 Z"
+         style="fill:#999999"
+         id="path326-2"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <title
+         id="title328-3">Beverages → Beverages
+Beverages
+38.4</title>
+      <text
+         class="label"
+         dy="0.34999999em"
+         x="671.75"
+         y="315.08423"
+         id="text330-0"
+         style="fill:#999999" />
+    </g>
+    <line
+       id="line708-6"
+       style="display:inline;stroke:#000000"
+       y2="358.17633"
+       y1="321.99216"
+       x2="1019"
+       x1="1019"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <g
+       class="node"
+       transform="translate(796.75,321.99215)"
+       id="g634"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <title
+         id="title622">Beverages</title>
+      <line
+         x1="0"
+         x2="0"
+         y1="-5"
+         y2="55.667973"
+         style="display:inline;stroke:#000000"
+         id="line624" />
+      <rect
+         class="node-body"
+         width="1"
+         height="55.667973"
+         style="fill:none"
+         id="rect626"
+         x="0"
+         y="0" />
+      <text
+         class="node-value"
+         dy="0.34999999em"
+         transform="rotate(-90,14.166993,13.666993)"
+         style="text-anchor:middle;display:none"
+         id="text628" />
+      <text
+         class="node-title"
+         dy="0.34999999em"
+         transform="translate(-4,-10)"
+         style="text-anchor:start;display:inline"
+         id="text630">
+        <tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
+           id="tspan3314">Beverages 59</tspan>
+      </text>
+      <rect
+         class="node-click-target"
+         x="-5"
+         y="-5"
+         width="10"
+         height="60.667973"
+         style="visibility:hidden;fill:none"
+         id="rect632" />
+    </g>
+    <line
+       id="line722-8"
+       style="display:inline;stroke:#000000"
+       y2="420.85568"
+       y1="411.20657"
+       x2="1019"
+       x1="1019"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <line
+       id="line736-7"
+       style="display:inline;stroke:#000000"
+       y2="462.0101"
+       y1="459.59784"
+       x2="1019"
+       x1="1019"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <g
+       class="link"
+       style="opacity:1;fill:#9981cb;fill-opacity:1"
+       id="g340"
+       transform="translate(130,25)"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <path
+         d="M 1,77.285883 A 84.503676,84.503676 0.96696339 0 1 70.560496,113.80822 L 182.53262,276.13876 A 48.249578,48.249578 0.96696339 0 0 222.25,296.99215 v 36.2541 A 84.503676,84.503676 0.96696339 0 1 152.6895,296.72391 L 40.717379,134.39336 A 48.249578,48.249578 0.96696339 0 0 1,113.53998 Z"
+         style="fill:#9981cb;fill-opacity:1"
+         id="path334"
+         inkscape:connector-curvature="0" />
+      <title
+         id="title336">Silica → Container glass melting
+Silica
+38.5</title>
+      <text
+         class="label"
+         dy="0.34999999em"
+         x="5"
+         y="95.412933"
+         id="text338"
+         style="fill:#9981cb;fill-opacity:1" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="681.20575"
+       y="492.73569"
+       id="text3324"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan3322"
+         x="681.20575"
+         y="492.73569"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:Arial;-inkscape-font-specification:Arial">End of life scrap 28 </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="489.69089"
+       y="433.34448"
+       id="text3324-2"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan3322-3"
+         x="489.69089"
+         y="433.34448"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:Arial;-inkscape-font-specification:Arial">Forming scrap 9 </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="486.72214"
+       y="171.68861"
+       id="text3324-2-6"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan3322-3-1"
+         x="486.72214"
+         y="171.68861"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:Arial;-inkscape-font-specification:Arial">Forming scrap 12 </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="1012.9014"
+       y="45.430359"
+       id="text3324-2-65"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         x="1012.9014"
+         y="45.430359"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:Arial;-inkscape-font-specification:Arial"
+         id="tspan3384">20 </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="1018.4193"
+       y="176.22055"
+       id="text3324-2-65-0"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         x="1019.8984"
+         y="176.22055"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:Arial;-inkscape-font-specification:Arial"
+         id="tspan3384-5"><tspan
+   style="text-align:center;text-anchor:middle"
+   id="tspan3438">1</tspan> </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="1018.776"
+       y="315.23383"
+       id="text3324-2-65-4"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         x="1020.2551"
+         y="315.23383"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:Arial;-inkscape-font-specification:Arial"
+         id="tspan3384-7"><tspan
+   style="text-align:center;text-anchor:middle"
+   id="tspan3440">38</tspan> </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="1018.8389"
+       y="404.44824"
+       id="text3324-2-65-6"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         x="1020.3181"
+         y="404.44824"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:Arial;-inkscape-font-specification:Arial"
+         id="tspan3384-55"><tspan
+   style="text-align:center;text-anchor:middle"
+   id="tspan3434">10</tspan> </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="1018.8389"
+       y="452.72232"
+       id="text3324-2-65-65"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         x="1020.3181"
+         y="452.72232"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:Arial;-inkscape-font-specification:Arial"
+         id="tspan3384-9"><tspan
+   style="text-align:center;text-anchor:middle"
+   id="tspan3436">3</tspan> </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="1054.2051"
+       y="562.67749"
+       id="text3324-2-65-3"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         x="1054.2051"
+         y="562.67749"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1;font-family:Arial;-inkscape-font-specification:Arial;text-align:end;text-anchor:end"
+         id="tspan3384-3">Global glass flows 2014</tspan><tspan
+         sodipodi:role="line"
+         x="1057.1633"
+         y="579.34418"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:Arial;-inkscape-font-specification:Arial;text-align:end;text-anchor:end"
+         id="tspan3460"><tspan
+   style="font-size:12px;line-height:1"
+   id="tspan3466">in million tonnes</tspan> </tspan></text>
+    <line
+       id="line456"
+       style="display:inline;stroke:#000000"
+       y2="413.29272"
+       y1="316.99216"
+       x2="352.25"
+       x1="352.25"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <g
+       class="node"
+       transform="translate(352.25,52.188693)"
+       id="g438"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <title
+         id="title426">Flat glass melting</title>
+      <line
+         x1="0"
+         x2="0"
+         y1="-5"
+         y2="90.633217"
+         style="display:inline;stroke:#000000"
+         id="line428" />
+      <rect
+         class="node-body"
+         width="1"
+         height="90.633217"
+         style="fill:none"
+         id="rect430"
+         x="0"
+         y="0" />
+      <text
+         class="node-value"
+         dy="0.34999999em"
+         transform="rotate(-90,22.908304,22.408304)"
+         style="text-anchor:middle;display:none"
+         id="text432" />
+      <text
+         class="node-title"
+         dy="0.34999999em"
+         transform="translate(-4,-10)"
+         style="text-anchor:start;display:inline"
+         id="text434">
+        <tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
+           id="tspan3288">Flat glass melting 96</tspan>
+      </text>
+      <rect
+         class="node-click-target"
+         x="-5"
+         y="-5"
+         width="10"
+         height="95.633217"
+         style="visibility:hidden;fill:none"
+         id="rect436" />
+    </g>
+    <g
+       class="node"
+       transform="translate(574.5,321.99215)"
+       id="g536"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <title
+         id="title524">Container glass forming</title>
+      <line
+         x1="0"
+         x2="0"
+         y1="-5"
+         y2="82.471069"
+         style="display:inline;stroke:#000000"
+         id="line526" />
+      <rect
+         class="node-body"
+         width="1"
+         height="82.471069"
+         style="fill:none"
+         id="rect528"
+         x="0"
+         y="0" />
+      <text
+         class="node-value"
+         dy="0.34999999em"
+         transform="rotate(-90,20.867767,20.367767)"
+         style="text-anchor:middle;display:none"
+         id="text530" />
+      <text
+         class="node-title"
+         dy="0.34999999em"
+         transform="translate(-4,-10)"
+         style="text-anchor:start;display:inline"
+         id="text532">
+        <tspan
+           style="-inkscape-font-specification:Arial;font-family:Arial;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+           id="tspan3300">Container glass forming</tspan>
+      </text>
+      <rect
+         class="node-click-target"
+         x="-5"
+         y="-5"
+         width="10"
+         height="87.471069"
+         style="visibility:hidden;fill:none"
+         id="rect534" />
+    </g>
+    <g
+       class="node"
+       transform="translate(574.5,52.188693)"
+       id="g508"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <title
+         id="title496">Flat glass forming</title>
+      <line
+         x1="0"
+         x2="0"
+         y1="-5"
+         y2="78.432274"
+         style="display:inline;stroke:#000000"
+         id="line498" />
+      <rect
+         class="node-body"
+         width="1"
+         height="78.432274"
+         style="fill:none"
+         id="rect500"
+         x="0"
+         y="0" />
+      <text
+         class="node-value"
+         dy="0.34999999em"
+         transform="rotate(-90,19.858069,19.358069)"
+         style="text-anchor:middle;display:none"
+         id="text502" />
+      <text
+         class="node-title"
+         dy="0.34999999em"
+         transform="translate(-4,-10)"
+         style="text-anchor:start;display:inline"
+         id="text504">
+        <tspan
+           style="-inkscape-font-specification:Arial;font-family:Arial;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+           id="tspan3298">Flat glass forming</tspan>
+      </text>
+      <rect
+         class="node-click-target"
+         x="-5"
+         y="-5"
+         width="10"
+         height="83.432274"
+         style="visibility:hidden;fill:none"
+         id="rect506" />
+    </g>
+    <g
+       class="node"
+       transform="translate(796.75,52.188693)"
+       id="g592"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <title
+         id="title580">Buildings</title>
+      <line
+         x1="0"
+         x2="0"
+         y1="-5"
+         y2="55.333973"
+         style="display:inline;stroke:#000000"
+         id="line582" />
+      <rect
+         class="node-body"
+         width="1"
+         height="55.333973"
+         style="fill:none"
+         id="rect584"
+         x="0"
+         y="0" />
+      <text
+         class="node-value"
+         dy="0.34999999em"
+         transform="rotate(-90,14.083493,13.583493)"
+         style="text-anchor:middle;display:none"
+         id="text586" />
+      <text
+         class="node-title"
+         dy="0.34999999em"
+         transform="translate(-4,-10)"
+         style="text-anchor:start;display:inline"
+         id="text588">
+        <tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
+           id="tspan3308">Buildings 59</tspan>
+      </text>
+      <rect
+         class="node-click-target"
+         x="-5"
+         y="-5"
+         width="10"
+         height="60.333973"
+         style="visibility:hidden;fill:none"
+         id="rect590" />
+    </g>
+    <g
+       class="node"
+       transform="translate(796.75,182.94372)"
+       id="g606"
+       inkscape:export-filename="C:\Users\Jose\Desktop\glass_paper\word_docs\images\glass_sankey_2014.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <title
+         id="title594">Automotive</title>
+      <line
+         x1="0"
+         x2="0"
+         y1="-5"
+         y2="4.0000463"
+         style="display:inline;stroke:#000000"
+         id="line596" />
+      <rect
+         class="node-body"
+         width="1"
+         height="4.0000463"
+         style="fill:none"
+         id="rect598"
+         x="0"
+         y="0" />
+      <text
+         class="node-value"
+         dy="0.34999999em"
+         transform="rotate(-90,1.2500115,0.75001153)"
+         style="text-anchor:middle;display:none"
+         id="text600" />
+      <text
+         class="node-title"
+         dy="0.34999999em"
+         transform="translate(-4,-10)"
+         style="text-anchor:start;display:inline"
+         id="text602">
+        <tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
+           id="tspan3310">Automotive 4</tspan>
+      </text>
+      <rect
+         class="node-click-target"
+         x="-5"
+         y="-5"
+         width="10"
+         height="9.0000458"
+         style="visibility:hidden;fill:none"
+         id="rect604" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="new_flow"
+     style="display:inline" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="guides"
+     style="display:none">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 130,359.94 v 11.09677"
+       id="path2342"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 352.25,379.06724 H -158.6414"
+       id="path763"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 130,399.06727 V 379.06724"
+       id="path2402"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 335.48554,147.93469 v 57.38086"
+       id="path765"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 592.26423,135.76387 v 77.44111"
+       id="path767"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 588.74067,409.87605 v 61.76088"
+       id="path2423"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 596.82429,445.83638 H 314.72406"
+       id="path2425"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 339.0045,418.4992 V 472.17"
+       id="path2427"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 797.22656,496.85549 v 26.32893"
+       id="path2430"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 804.39347,408.59117 v 96.87307"
+       id="path2449"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 809.58994,345.58172 V 522.45479"
+       id="path2449-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 802.74514,479.30421 h 26.32894"
+       id="path2430-9"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 797.75,459.59783 h 298.2403"
+       id="path2934"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 797.75,411.20658 h 270.9472"
+       id="path2993"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 797.75,321.99215 h 312.7398"
+       id="path2995"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 796.75,182.94372 h 334.2668"
+       id="path2997"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1019,178.07091 v 10.26342"
+       id="path3170"
+       inkscape:connector-curvature="0" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 1019,482.01014 V 462.01011"
+       id="path2402-3"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
