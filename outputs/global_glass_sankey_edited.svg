@@ -56,13 +56,13 @@
      inkscape:snap-center="true"
      inkscape:snap-text-baseline="true"
      inkscape:snap-page="true"
-     inkscape:zoom="1.1773972"
-     inkscape:cx="579.71181"
-     inkscape:cy="324.92598"
+     inkscape:zoom="3.3301822"
+     inkscape:cx="437.58908"
+     inkscape:cy="377.47014"
      inkscape:window-x="1358"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer2" />
+     inkscape:current-layer="layer1" />
   <g
      inkscape:groupmode="layer"
      id="layer1"
@@ -1781,7 +1781,7 @@ Liquid glass
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300" />
     <path
-       style="opacity:0.547;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:11.01481342;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       style="opacity:0.7;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:11.01481342;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        d="m 364.84976,108.06573 h 76.30096 v 15.11523 h -76.30096 z"
        id="rect3798"
        inkscape:connector-curvature="0"
@@ -1839,7 +1839,7 @@ Liquid glass
          id="rect436" />
     </g>
     <path
-       style="display:inline;opacity:0.547;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:11.01481342;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       style="display:inline;opacity:0.7;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:11.01481342;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        d="m 362.21003,301.77892 h 76.30096 v 15.11523 h -76.30096 z"
        id="rect3798-7"
        inkscape:connector-curvature="0"
