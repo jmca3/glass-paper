@@ -56,9 +56,9 @@
      inkscape:snap-center="true"
      inkscape:snap-text-baseline="true"
      inkscape:snap-page="true"
-     inkscape:zoom="3.3301822"
-     inkscape:cx="437.58908"
-     inkscape:cy="377.47014"
+     inkscape:zoom="1.1773972"
+     inkscape:cx="264.912"
+     inkscape:cy="342.5797"
      inkscape:window-x="1358"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -131,7 +131,7 @@ Beverages
     </g>
     <path
        style="display:inline;opacity:1;fill:none;stroke:#cccccc;stroke-width:29.74200058;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 352.25,397.87862 c -16.96384,0 -30.71575,13.75191 -30.71575,30.71575 v 82.35675 c 0,16.96384 13.75191,30.71575 30.71575,30.71575 h 4 l 436.97658,-10e-6 1.9673,10e-6 c 16.9638,0 30.7157,-13.75191 30.7157,-30.71575 v -8.11024"
+       d="m 352.24999,397.87862 c -16.96384,0 -30.71575,13.75191 -30.71575,30.71575 v 82.35675 c 0,16.96384 13.75191,30.71575 30.71575,30.71575 h 4 l 436.97658,-10e-6 1.9673,10e-6 c 16.9638,0 30.7157,-13.75191 30.7157,-30.71575 v -8.11024"
        id="path2432-8"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccc"
@@ -1964,6 +1964,93 @@ Liquid glass
          height="67.789955"
          style="visibility:hidden;fill:none"
          id="rect590" />
+    </g>
+    <g
+       id="g1483"
+       transform="translate(-113.99844,10)">
+      <text
+         id="text396-1-7-9"
+         y="458.45331"
+         x="184.7859"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:Arial;-inkscape-font-specification:Arial"
+           y="458.45331"
+           x="184.7859"
+           id="tspan394-3-7-5"
+           sodipodi:role="line">China 54</tspan></text>
+      <text
+         id="text396-13"
+         y="488.96582"
+         x="184.4734"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:Arial;-inkscape-font-specification:Arial"
+           y="488.96582"
+           x="184.4734"
+           id="tspan394-6"
+           sodipodi:role="line">Europe 31</tspan></text>
+      <text
+         id="text396-1-70"
+         y="508.78137"
+         x="184.50465"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:Arial;-inkscape-font-specification:Arial"
+           y="508.78137"
+           x="184.50465"
+           id="tspan394-3-2"
+           sodipodi:role="line">North America 13</tspan></text>
+      <text
+         id="text396-1-7-7-1"
+         y="533.19312"
+         x="184.47861"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:Arial;-inkscape-font-specification:Arial"
+           y="533.19312"
+           x="184.47861"
+           id="tspan394-3-7-4-9"
+           sodipodi:role="line">Rest of the world 46</tspan></text>
+      <text
+         id="text396-9-5"
+         y="413.79352"
+         x="184.74944"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';letter-spacing:0px;word-spacing:0px;display:inline;fill:#999999;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:Arial;-inkscape-font-specification:Arial;fill:#999999;fill-opacity:1"
+           y="413.79352"
+           x="184.74944"
+           id="tspan394-4-8"
+           sodipodi:role="line">Glass production </tspan><tspan
+           id="tspan1421"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:Arial;-inkscape-font-specification:Arial;fill:#999999;fill-opacity:1"
+           y="430.46017"
+           x="184.74944"
+           sodipodi:role="line">by region:</tspan></text>
+      <g
+         id="g1465">
+        <path
+           style="display:inline;fill:none;fill-opacity:1;stroke:#0044aa;stroke-width:11.39001083;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 174.4786,434.70496 v 39.86122"
+           id="path359-0-6-0-61"
+           inkscape:connector-curvature="0" />
+        <path
+           style="display:inline;fill:none;stroke:#238ed3;stroke-width:11.39001083;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 174.4786,474.56618 v 23.25239"
+           id="path359-0-3"
+           inkscape:connector-curvature="0" />
+        <path
+           style="display:inline;fill:none;stroke:#77cbf0;stroke-width:11.39001083;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 174.4786,497.81857 v 14.39434"
+           id="path359-0-6-00"
+           inkscape:connector-curvature="0" />
+        <path
+           style="display:inline;fill:none;stroke:#bce5f7;stroke-width:11.39001083;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.65151513"
+           d="m 174.4786,512.21291 v 34.32496"
+           id="path359-0-6-0-6-4"
+           inkscape:connector-curvature="0" />
+      </g>
     </g>
   </g>
   <g
